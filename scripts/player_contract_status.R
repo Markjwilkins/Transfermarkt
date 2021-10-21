@@ -39,12 +39,12 @@ player_bio <- function(player_url) {
 # Combine -----------------------------------------------------------------
 
 ##pull league URLs
-league_one_teams <-
+teams <-
   tm_league_team_urls(start_year = 2021, league_url = "https://www.transfermarkt.com/league-one/startseite/wettbewerb/GB3")
 
 ##pull player links from team URLs
 player_links <-
-  league_one_teams %>%
+  teams %>%
   map(~ tm_team_player_urls(.x)) %>%
   unlist() %>%
   tibble()
