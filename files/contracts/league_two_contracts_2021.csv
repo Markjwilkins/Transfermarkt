@@ -1,0 +1,622 @@
+player_name,date_of_birth,place_of_birth,age,height,citizenship,position,foot,player_agent,current_club,joined,contract_expires,on_loan_from,contract_there_expires,social_media,date_of_last_contract_extension,outfitter,contract_option,x2nd_club,full_name
+Dean Gerken,"May 22, 1985",Rochford,36,"1,83 m",England,Goalkeeper,right,Volenti,Colchester United,"Jul 13, 2019","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Jake Turner,"Feb 25, 1999",Wilmslow,22,"1,94 m",England,Goalkeeper,right,ICM Stellar Sports,Colchester United,"Aug 7, 2021","Jan 1, 2022",Newcastle United,-,NA,NA,NA,NA,NA,NA
+Shamal George,"Jan 6, 1998",Wirral,23,"1,91 m",England,Goalkeeper,right,SSG,Colchester United,"Aug 28, 2020","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Tommy Smith,"Mar 31, 1990",Macclesfield,31,"1,87 m",New Zealand England,Defender - Centre-Back,left,ICM Stellar Sports,Colchester United,"Aug 25, 2020","Jun 30, 2023",NA,NA,,NA,NA,NA,NA,NA
+Luke Chambers,"Sep 28, 1985",Kettering,36,"1,85 m",England Ireland,Defender - Centre-Back,right,YMU Group,Colchester United,"Jul 1, 2021","Jun 30, 2023",NA,NA,,NA,NA,NA,NA,NA
+Tom Eastman,"Oct 21, 1991",Colchester,30,"1,90 m",England,Defender - Centre-Back,right,NA,Colchester United,"Jul 1, 2011","Jun 30, 2023",NA,NA,NA,"May 25, 2021",NA,NA,NA,NA
+Charlie Daniels,"Sep 7, 1986",Harlow,35,"1,78 m",England,Defender - Left-Back,left,Volenti,Colchester United,"Aug 17, 2021","Jun 30, 2022",NA,NA,,NA,Under Armour,NA,NA,NA
+Ryan Clampin,"Jan 29, 1999",Colchester,22,"1,80 m",England,Defender - Left-Back,left,Wasserman,Colchester United,"Jul 1, 2019","Jun 30, 2023",NA,NA,NA,"Jun 11, 2021",NA,NA,NA,NA
+Miles Welch-Hayes,"Oct 25, 1996",Oxford,25,"1,80 m",England,Defender - Right-Back,right,Elite Management Agency,Colchester United,"Feb 21, 2020","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Junior Tchamadeu,"Dec 22, 2003",NA,17,NA,England,Defender - Right-Back,right,Agent is known - Player under 18,Colchester United,"Jan 1, 2021","Jun 30, 2024",NA,NA,NA,NA,NA,NA,NA,NA
+Cameron Coxe,"Dec 18, 1998",Merthyr Tydfil,22,"1,85 m",Wales,Defender - Right-Back,right,Unique Sports Group,Colchester United,"Jul 2, 2021","Jan 6, 2022",Solihull Moors,"Jun 30, 2022",,NA,NA,NA,NA,NA
+Cole Skuse,"Mar 29, 1986",Bristol,35,"1,85 m",England,midfield - Defensive Midfield,right,NA,Colchester United,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Alan Judge,"Nov 11, 1988",Dublin,32,"1,69 m",Ireland,midfield - Central Midfield,right,NA,Colchester United,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,"Jun 18, 2021",NA,NA,NA,NA
+Brendan Wiredu,"Nov 7, 1999",London,21,"1,91 m",England Ghana,midfield - Central Midfield,right,Sync Global Sports,Colchester United,"Feb 1, 2021","Jun 30, 2023",NA,NA,NA,"Jul 5, 2021",NA,NA,NA,NA
+Noah Chilvers,"Feb 22, 2001",Chelmsford,20,"1,73 m",England,midfield - Central Midfield,right,NA,Colchester United,"Jul 1, 2019","Jun 30, 2023",NA,NA,NA,"Oct 2, 2020",NA,NA,NA,NA
+Gene Kennedy,"Apr 18, 2003",NA,18,NA,England,midfield - Central Midfield,right,NA,Colchester United,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Luke Hannant,"Nov 4, 1993",Great Yarmouth,27,"1,80 m",England,midfield - Left Midfield,right,NA,Colchester United,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Sylvester Jasper,"Sep 13, 2001",London,20,"1,80 m",England,attack - Left Winger,right,NA,Colchester United,"Aug 4, 2021","Jan 4, 2022",Fulham FC U23,"Jun 30, 2023",,NA,NA,NA,NA,NA
+Armando Dobra,"Apr 14, 2001",London,20,"1,70 m",Albania England,attack - Right Winger,right,Relatives,Colchester United,"Aug 31, 2021","May 31, 2022",Ipswich Town,"Jun 30, 2023",,NA,NA,NA,NA,NA
+Freddie Sears,"Nov 27, 1989",Hornchurch,31,"1,69 m",England,attack - Second Striker,right,NA,Colchester United,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Frank Nouble,"Sep 24, 1991",London,30,"1,90 m",England Cote d'Ivoire,attack - Centre-Forward,right,VIPSportsManagement,Colchester United,"Jul 1, 2021","Jun 30, 2023",NA,NA,,NA,NA,NA,NA,NA
+Samson Tovide,"Jan 4, 2004",NA,17,NA,England Nigeria,attack - Centre-Forward,left,NA,Colchester United,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Anssi Jaakkola,"Mar 13, 1987",Kemi,34,"1,96 m",Finland,Goalkeeper,right,ICM Stellar Sports,Bristol Rovers,"Jul 1, 2019","Jun 30, 2022",NA,NA,NA,"Jul 3, 2020",NA,NA,NA,NA
+James Belshaw,"Oct 12, 1990",Nottingham,31,"1,91 m",England,Goalkeeper,right,Unique Sports Group,Bristol Rovers,"Jul 23, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Cian Harries,"Apr 1, 1997",Birmingham,24,"1,85 m",Wales,Defender - Centre-Back,left,NA,Bristol Rovers,"Jan 31, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Mark Hughes,"Dec 9, 1986",Liverpool,34,"1,90 m",England,Defender - Centre-Back,right,NA,Bristol Rovers,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Alfie Kilgour,"May 18, 1998",Bath,23,"1,88 m",England,Defender - Centre-Back,right,Relatives,Bristol Rovers,"Jul 1, 2016","Jun 30, 2023",NA,NA,,"Jul 4, 2020",NA,NA,NA,NA
+Connor Taylor,"Oct 25, 2001",NA,20,"1,83 m",England,Defender - Centre-Back,NA,Beswicks Sports Ltd,Bristol Rovers,"Jul 1, 2021","May 31, 2022",Stoke City U23,"Jun 30, 2022",NA,NA,NA,NA,NA,NA
+Trevor Clarke,"Mar 26, 1998",Dublin,23,"1,65 m",Ireland,Defender - Left-Back,left,NA,Bristol Rovers,"Jul 9, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,club option 1 year,NA,NA
+Junior Brown,"May 7, 1989",Crewe,32,"1,75 m",England,Defender - Left-Back,right,366 Group,Bristol Rovers,"Aug 31, 2021","May 31, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Nick Anderton,"Apr 22, 1996",NA,25,"1,88 m",England,Defender - Left-Back,left,Fifteen Eleven Management,Bristol Rovers,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Glenn Whelan,"Jan 13, 1984",Dublin,37,"1,80 m",Ireland,midfield - Defensive Midfield,right,NA,Bristol Rovers,"Sep 4, 2021","Jun 30, 2022",NA,NA,NA,NA,adidas,NA,NA,NA
+Josh Grant,"Oct 11, 1998",London,23,"1,83 m",England,midfield - Defensive Midfield,right,Volenti,Bristol Rovers,"Jul 18, 2020","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Paul Coutts,"Jul 22, 1988",Aberdeen,33,"1,84 m",Scotland,midfield - Central Midfield,right,ICM Stellar Sports,Bristol Rovers,"Jul 1, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Sam Finley,"Aug 4, 1992",Liverpool,29,"1,70 m",England,midfield - Central Midfield,left,Wasserman,Bristol Rovers,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Zain Westbrooke,"Oct 28, 1996",Chertsey,25,"1,80 m",England,midfield - Central Midfield,right,Fifteen Eleven Management,Bristol Rovers,"Aug 3, 2020","Jun 30, 2023",NA,NA,,NA,NA,NA,NA,NA
+Cameron Hargreaves,"Dec 1, 1998",NA,22,"1,78 m",England,midfield - Central Midfield,right,The Endgame Group,Bristol Rovers,"Jul 1, 2019","Jun 30, 2022",NA,NA,NA,"Jun 3, 2020",NA,NA,NA,NA
+Harry Anderson,"Jan 9, 1997",Chertsey,24,"1,79 m",England,midfield - Right Midfield,right,Unique Sports Group,Bristol Rovers,"Jul 13, 2021","Jun 30, 2023",NA,NA,,NA,NA,NA,NA,NA
+Sam Nicholson,"Jan 20, 1995",Edinburgh,26,"1,75 m",Scotland,midfield - Left Midfield,left,NA,Bristol Rovers,"Jul 22, 2020","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Antony Evans,"Sep 23, 1998",Liverpool,23,"1,86 m",England,midfield - Attacking Midfield,right,Crown Football Ltd,Bristol Rovers,"Aug 31, 2021","May 31, 2022",NA,NA,NA,NA,adidas,NA,NA,NA
+Sion Spence,"Oct 2, 2000",NA,21,NA,Wales,midfield - Attacking Midfield,NA,Wasserman,Bristol Rovers,"Jul 9, 2021","May 31, 2022",Crystal Palace U23,-,NA,NA,NA,NA,NA,NA
+Alex Rodman,"Feb 15, 1987",Sutton Coldfield,34,"1,88 m",England,attack - Left Winger,right,Momentum Sports Management,Bristol Rovers,"Jul 2, 2018","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Luke Thomas,"Feb 19, 1999",Soudley,22,"1,71 m",England,attack - Right Winger,left,YMU Group,Bristol Rovers,"Jul 10, 2021","May 31, 2022",Barnsley FC,"Jun 30, 2023",,NA,NA,NA,NA,NA
+Zain Walker,"Jan 8, 2002",NA,19,"1,73 m",England,attack - Right Winger,right,PowerHause SG,Bristol Rovers,"Jul 1, 2020","Jun 30, 2022",NA,NA,NA,"Sep 4, 2020",NA,Option for a further year,NA,NA
+Brett Pitman,"Jan 31, 1988",Saint Helier,33,"1,83 m",Jersey,attack - Centre-Forward,right,NA,Bristol Rovers,"Jul 30, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,club option 1 year,NA,NA
+Leon Clarke,"Feb 10, 1985",Wolverhampton,36,"1,88 m",England,attack - Centre-Forward,right,NA,Bristol Rovers,"Aug 31, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Aaron Collins,"May 27, 1997",Newport,24,"1,78 m",Wales,attack - Centre-Forward,NA,Elite Management Agency,Bristol Rovers,"Jul 1, 2021","Jun 30, 2023",NA,NA,,NA,NA,NA,NA,NA
+Harvey Saunders,"Jul 20, 1997",Wolverhampton,24,"1,80 m",England,attack - Centre-Forward,right,Intermediaries for Sport,Bristol Rovers,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Kieran Phillips,"Aug 13, 2002",NA,19,"1,75 m",England,attack - Centre-Forward,NA,GSF Agency,Bristol Rovers,"Jul 1, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Tom King,"Mar 9, 1995",Plymouth,26,"1,85 m",Wales England,Goalkeeper,NA,GrupoKontinental,Salford City,"Jul 7, 2021","Jun 30, 2023",NA,NA,,NA,NA,NA,NA,NA
+Zach Jeacock,"May 8, 2001",Birmingham,20,"1,91 m",England,Goalkeeper,right,Quantum Sport,Salford City,"Jul 30, 2021","May 31, 2022",Birmingham City,"Jun 30, 2024",,NA,NA,NA,NA,NA
+Jordan Turnbull,"Oct 31, 1994 Happy Birthday",Trowbridge,27,"1,85 m",England,Defender - Centre-Back,left,Unique Sports Group,Salford City,"Jul 28, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Ashley Eastham,"Mar 22, 1991",Preston,30,"1,90 m",England,Defender - Centre-Back,right,NA,Salford City,"Jan 31, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Corrie Ndaba,"Dec 25, 1999",Dublin,21,"1,88 m",Ireland,Defender - Centre-Back,left,NA,Salford City,"Aug 21, 2021","May 31, 2022",Ipswich Town,-,NA,NA,NA,NA,NA,NA
+Andy Smith,"Sep 11, 2001",Banbury,20,NA,England,Defender - Centre-Back,NA,Omni-Sports,Salford City,"Aug 30, 2021","May 31, 2022",Hull City U23,"Jun 30, 2023",,NA,NA,NA,NA,NA
+Ibou Touray,"Dec 24, 1994",Liverpool,26,"1,77 m",The Gambia England,Defender - Left-Back,left,CAA Base Ltd,Salford City,"Jul 1, 2017","Jun 30, 2023",NA,NA,,"Jun 18, 2021",NA,NA,NA,NA
+Donald Love,"Dec 2, 1994",Rochdale,26,"1,78 m",Scotland England,Defender - Right-Back,right,NA,Salford City,"Aug 31, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Liam Shephard,"Nov 22, 1994",Pentre,26,"1,78 m",Wales,Defender - Right-Back,right,CAA Base Ltd,Salford City,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Tylor Golden,"Nov 8, 1999",Ipswich,21,"1,74 m",United States England,Defender - Right-Back,right,FullNinety,Salford City,"Aug 31, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Jason Lowe,"Sep 2, 1991",Wigan,30,"1,83 m",England,midfield - Defensive Midfield,right,NA,Salford City,"Jul 22, 2020","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Alex Denny,"Apr 12, 2000",Chester,21,"1,86 m",England,midfield - Defensive Midfield,NA,SEG,Salford City,"Aug 31, 2020","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Matty Lund,"Nov 21, 1990",Manchester,30,"1,70 m",Northern Ireland England,midfield - Central Midfield,right,Clover Sports,Salford City,"Jul 1, 2021","Jun 30, 2022",NA,NA,,NA,NA,Option for a further year,NA,NA
+Matty Willock,"Aug 20, 1996",London,25,"1,72 m",Montserrat England,midfield - Central Midfield,right,NA,Salford City,"Aug 4, 2021","Jun 30, 2022",NA,NA,,NA,NA,club option 1 year,NA,NA
+Luke Burgess,"Mar 3, 1999",Liverpool,22,"1,75 m",England,midfield - Central Midfield,NA,New Vision,Salford City,"Aug 25, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Josh Morris,"Sep 30, 1991",Preston,30,"1,80 m",England,midfield - Left Midfield,left,Integral Sports Management,Salford City,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Ashley Hunter,"Sep 29, 1995",Derby,26,"1,78 m",England,attack - Left Winger,right,Clover Sports,Salford City,"Jul 17, 2020","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Tyreik Wright,"Sep 22, 2001",Ovens,20,"1,79 m",Ireland,attack - Right Winger,NA,NA,Salford City,"Aug 17, 2021","May 31, 2022",Aston Villa U23,-,,"Jul 6, 2021",NA,club option 1 year,NA,NA
+Tom Elliott,"Nov 9, 1990",Leeds,30,"1,99 m",England St. Kitts & Nevis,attack - Centre-Forward,right,Refuel Performance Management,Salford City,"Jan 9, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Conor McAleny,"Aug 12, 1992",Whiston,29,"1,78 m",England,attack - Centre-Forward,right,Wasserman,Salford City,"Jul 1, 2021","Jun 30, 2023",NA,NA,,NA,NA,NA,NA,NA
+Ian Henderson,"Jan 24, 1985",Thetford,36,"1,75 m",England Scotland,attack - Centre-Forward,right,New Vision,Salford City,"Jul 29, 2020","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Aramide Oteh,"Sep 10, 1998",London,23,"1,75 m",England Nigeria,attack - Centre-Forward,right,NA,Salford City,"Sep 25, 2021","Jan, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+D'Mani Mellor,"Sep 20, 2000",Manchester,21,"1,86 m",England,attack - Centre-Forward,right,ICM Stellar Sports,Salford City,"Aug 28, 2021","May 31, 2022",Manchester United U23,"Jun 30, 2023",,"Aug 13, 2021",NA,NA,NA,NA
+Brandon Thomas-Asante,"Dec 29, 1998",Milton Keynes,22,"1,82 m",England Ghana,attack - Centre-Forward,right,NA,Salford City,"Sep 3, 2019","Jun 30, 2023",NA,NA,,NA,NA,,NA,NA
+Ross Doohan,"Mar 29, 1998",Clydebank,23,"1,86 m",Scotland,Goalkeeper,right,NA,Tranmere Rovers,"Aug 4, 2021","May 31, 2022",Celtic FC,"May 31, 2022",NA,NA,NA,NA,NA,NA
+Joe Murphy,"Aug 21, 1981",Dublin,40,"1,88 m",Ireland,Goalkeeper,NA,ICM Stellar Sports,Tranmere Rovers,"Aug 22, 2020","Jun 30, 2022",NA,NA,NA,"Jun 10, 2021",NA,NA,NA,NA
+Scott Davies,"Feb 27, 1987",Thornton-Clevelays,34,"1,83 m",England,Goalkeeper,NA,LPM Football Agents,Tranmere Rovers,"Jul 1, 2015","Jun 30, 2022",NA,NA,NA,"May 25, 2018",NA,NA,NA,NA
+Ben Jones,"Nov 29, 2000",NA,20,NA,England,Goalkeeper,NA,NA,Tranmere Rovers,"Nov 11, 2019","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Kyle Hayde,"Sep 25, 2001",NA,20,NA,England,Defender,NA,NA,Tranmere Rovers,"Jul 14, 2020","Jun 30, 2022",NA,NA,NA,"Jul 14, 2020",NA,NA,NA,NA
+Nathaniel Knight-Percival,"Mar 31, 1987",Histon and Impington,34,"1,82 m",England,Defender - Centre-Back,NA,World in Motion,Tranmere Rovers,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Tom Davies,"Apr 18, 1992",Warrington,29,"1,80 m",England,Defender - Centre-Back,right,NA,Tranmere Rovers,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Peter Clarke,"Jan 3, 1982",Southport,39,"1,88 m",England,Defender - Centre-Back,right,NA,Tranmere Rovers,"Jan 1, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Lee O'Connor,"Jul 28, 2000",Waterford,21,"1,85 m",Ireland,Defender - Centre-Back,right,PLG Scotland,Tranmere Rovers,"Aug 31, 2021","May 31, 2022",Celtic FC Reserves,"Jun 30, 2023",,NA,NA,NA,NA,NA
+Joe Maguire,"Jan 18, 1996",Manchester,25,"1,79 m",England,Defender - Left-Back,left,NA,Tranmere Rovers,"Jul 6, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Calum MacDonald,"Dec 18, 1997",NA,23,"1,80 m",Scotland England,Defender - Left-Back,left,KIN Partners,Tranmere Rovers,"Feb 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Josh Dacres-Cogley,"Mar 12, 1996",Coventry,25,"1,74 m",England,Defender - Right-Back,right,Crown Football Ltd,Tranmere Rovers,"Jul 1, 2021","Jun 30, 2023",NA,NA,,NA,NA,NA,NA,NA
+Jay Spearing,"Nov 25, 1988",Wallasey,32,"1,68 m",England,midfield - Defensive Midfield,right,no agent,Tranmere Rovers,"Aug 5, 2020","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Ryan Watson,"Jul 7, 1993",Crewe,28,"1,85 m",England,midfield - Defensive Midfield,right,LPM Football Agents,Tranmere Rovers,"Jul 1, 2021","Jun 30, 2023",NA,NA,,NA,NA,NA,NA,NA
+Sam Foley,"Oct 17, 1986",Upton-on-Severn,35,"1,83 m",Ireland England,midfield - Central Midfield,right,LPM Football Agents,Tranmere Rovers,"Jul 22, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Chris Merrie,"Nov 2, 1998",Liverpool,22,"1,81 m",England,midfield - Central Midfield,left,Unique Sports Group,Tranmere Rovers,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Mark Duffy,"Oct 7, 1985",Liverpool,36,"1,75 m",England,midfield - Right Midfield,right,Wasserman,Tranmere Rovers,"Aug 31, 2021","Jan 1, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Josh Hawkes,"Jan 28, 1999",Stockton-on-Tees,22,"1,80 m",England,midfield - Left Midfield,NA,NA,Tranmere Rovers,"Sep 2, 2021","May 31, 2022",Sunderland AFC,-,NA,NA,NA,NA,NA,NA
+Callum McManaman,"Apr 25, 1991",Huyton,30,"1,74 m",England Ireland,attack - Right Winger,right,Stonemountain Management,Tranmere Rovers,"Jul 9, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Liam Feeney,"Jan 21, 1987",London,34,"1,83 m",England Jamaica,attack - Right Winger,right,Refuel Performance Management,Tranmere Rovers,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Kieron Morris,"Jun 3, 1994",Hereford,27,"1,78 m",England,attack - Right Winger,left,Elite Management Agency,Tranmere Rovers,"Jul 1, 2019","Jun 30, 2022",NA,NA,NA,"Jun 15, 2021",NA,NA,NA,NA
+Stephen Walker,"Oct 11, 2000",Middlesbrough,21,"1,81 m",England,attack - Second Striker,right,SMI Sports Management,Tranmere Rovers,"Aug 31, 2021","May 31, 2022",Middlesbrough FC,"Jun 30, 2023",,NA,NA,NA,NA,NA
+Paul Glatzel,"Feb 20, 2001",Liverpool,20,"1,74 m",Germany England,attack - Centre-Forward,left,ICM Stellar Sports,Tranmere Rovers,"Jul 2, 2021","May 31, 2022",Liverpool FC U23,"Jun 30, 2023",,NA,adidas,NA,NA,NA
+Nicky Maynard,"Dec 11, 1986",Winsford,34,"1,80 m",England,attack - Centre-Forward,right,NA,Tranmere Rovers,"Aug 31, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Charlie Jolley,"Jan 13, 2001",Liverpool,20,"1,77 m",England,attack - Centre-Forward,right,NA,Tranmere Rovers,"Jan 25, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,club option 1 year,NA,NA
+Emmanuel Dieseruvwe,"Feb 20, 1995",Leeds,26,"1,95 m",England Nigeria,attack - Centre-Forward,NA,NA,Tranmere Rovers,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Jake Burton,"Nov 15, 2001",Liverpool,19,NA,England,attack - Centre-Forward,NA,NA,Tranmere Rovers,"Jul 14, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Elliott Nevitt,"Mar 25, 1996",NA,25,NA,England,attack - Centre-Forward,NA,NA,Tranmere Rovers,"Jul 9, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Nathan Bishop,"Oct 15, 1999",Hillingdon,22,"1,85 m",England,Goalkeeper,right,Unique Sports Group,Mansfield Town,"Aug 9, 2021","Jun 30, 2023",Manchester United U23,"Jun 30, 2023",NA,NA,NA,NA,NA,NA
+Marek Stech,"Jan 28, 1990",Praha,31,"1,91 m",Czech Republic,Goalkeeper,right,SPORT INVEST,Mansfield Town,"Jul 1, 2020","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+George Shelvey,"Apr 22, 2001",NA,20,"1,89 m",England,Goalkeeper,right,SSG,Mansfield Town,"Jul 1, 2021","May 31, 2022",Nottingham Forest U23,"Jun 30, 2023",NA,NA,NA,NA,NA,NA
+Richard Nartey,"Sep 6, 1998",London,23,"1,85 m",England Ghana,Defender - Centre-Back,right,New Era Global Sports,Mansfield Town,"Aug 31, 2021","May 31, 2022",Burnley FC U23,-,NA,NA,NA,NA,NA,NA
+Farrend Rawson,"Jul 11, 1996",Nottingham,25,"1,93 m",England,Defender - Centre-Back,NA,Omni-Sports,Mansfield Town,"Jul 17, 2020","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+William Forrester,"Jun 29, 2001",NA,20,"1,80 m",England,Defender - Centre-Back,right,Unique Sports Group,Mansfield Town,"Aug 31, 2021","Jan 9, 2022",Stoke City U23,"Jun 30, 2023",NA,NA,NA,NA,NA,NA
+George Cooper,"Oct 25, 2002",NA,19,NA,England,Defender - Centre-Back,NA,Tornado Sports Management,Mansfield Town,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Ryan Burke,"Nov 23, 2000",Dublin,20,"1,77 m",Ireland,Defender - Left-Back,left,NA,Mansfield Town,"Jul 2, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Jaden Charles,"Jan 25, 2002",NA,19,"1,73 m",Ireland England,Defender - Left-Back,left,Tornado Sports Management,Mansfield Town,"Mar 24, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Elliott Hewitt,"May 30, 1994",Rhuddlan,27,"1,80 m",Wales,Defender - Right-Back,right,ASC,Mansfield Town,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Kellan Gordon,"Dec 25, 1997",Burton upon Trent,23,"1,82 m",England,Defender - Right-Back,right,ICM Stellar Sports,Mansfield Town,"Jul 25, 2019","Jun 30, 2023",NA,NA,NA,"Feb 6, 2021",NA,NA,NA,NA
+James Clarke,"Apr 2, 2000",NA,21,"1,83 m",Ireland,Defender - Right-Back,right,Beswicks Sports Ltd,Mansfield Town,"Jul 1, 2019","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+James Perch,"Sep 28, 1985",Mansfield,36,"1,80 m",England Jamaica,midfield - Defensive Midfield,right,NA,Mansfield Town,"Aug 13, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Ryan Stirk,"Sep 25, 2000",NA,21,"1,78 m",Wales,midfield - Defensive Midfield,right,ICM Stellar Sports,Mansfield Town,"Jul 27, 2021","May 31, 2022",Birmingham City U23,-,NA,NA,NA,NA,NA,NA
+Stephen Quinn,"Apr 1, 1986",Clondalkin,35,"1,68 m",Ireland,midfield - Central Midfield,left,NA,Mansfield Town,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,"Jun 14, 2021",adidas,NA,NA,NA
+John-Joe O'Toole,"Sep 30, 1988",London,33,"1,88 m",Ireland England,midfield - Central Midfield,right,LPM Football Agents,Mansfield Town,"Oct 23, 2021","Jan 1, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+George Lapslie,"Sep 5, 1997",London,24,"1,80 m",England,midfield - Central Midfield,right,PODIA SPORTS LTD,Mansfield Town,"Jan 19, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Ollie Clarke,"Jun 29, 1992",Bristol,29,"1,80 m",England,midfield - Central Midfield,left,Momentum Sports Management,Mansfield Town,"Jul 1, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+George Maris,"Mar 6, 1996",Sheffield,25,"1,80 m",England,midfield - Central Midfield,left,Momentum Sports Management,Mansfield Town,"Jul 28, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Harry Charsley,"Nov 1, 1996",Wirral,24,"1,78 m",Ireland England,midfield - Central Midfield,right,ICM Stellar Sports,Mansfield Town,"Jan 18, 2020","Jun 30, 2022",NA,NA,NA,"Feb 6, 2021",NA,NA,NA,NA
+Keaton Ward,"May 4, 2000",NA,21,"1,83 m",England,midfield - Central Midfield,right,Tornado Sports Management,Mansfield Town,"Mar 5, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Ethan Hill,"Sep 12, 2002",Leicester,19,"1,80 m",England,midfield - Central Midfield,right,Tornado Sports Management,Mansfield Town,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Stephen McLaughlin,"Jun 14, 1990",Dublin,31,"1,78 m",Ireland,midfield - Left Midfield,left,NA,Mansfield Town,"Sep 11, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Tyrese Sinclair,"Feb 4, 2001",London,20,"1,75 m",England Jamaica,midfield - Left Midfield,NA,NA,Mansfield Town,"Jul 1, 2019","Jun 30, 2022",NA,NA,NA,"Mar 22, 2021",NA,NA,NA,NA
+Jason Law,"Apr 26, 1999",NA,22,"1,80 m",England,midfield - Left Midfield,NA,NA,Mansfield Town,"Jul 1, 2018","Jun 30, 2022",NA,NA,NA,"Mar 22, 2021",NA,NA,NA,NA
+Rhys Oates,"Dec 4, 1994",Pontefract,26,"1,83 m",England,attack - Left Winger,NA,NA,Mansfield Town,"Jul 8, 2021","Jun 30, 2023",NA,NA,,NA,NA,NA,NA,NA
+Danny Johnson,"Feb 28, 1993",Middlesbrough,28,"1,78 m",England,attack - Centre-Forward,NA,SMI Sports Management,Mansfield Town,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Jordan Bowery,"Jul 2, 1991",Nottingham,30,"1,85 m",England,attack - Centre-Forward,right,NA,Mansfield Town,"Jul 1, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Oliver Hawkins,"Apr 8, 1992",London,29,"1,95 m",England,attack - Centre-Forward,right,Unique Sports Group,Mansfield Town,"Jul 1, 2021","Jun 30, 2023",NA,NA,,NA,NA,NA,NA,NA
+Nathan Caine,"Nov 20, 2002",Stockport,18,NA,England,attack - Centre-Forward,NA,Tornado Sports Management,Mansfield Town,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Joe Wollacott,"Sep 8, 1996",Bristol,25,"1,90 m",Ghana England,Goalkeeper,NA,NA,Swindon Town,"Jul 1, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Lewis Ward,"Mar 5, 1997",NA,24,"1,94 m",England,Goalkeeper,NA,Integral Sports Management,Swindon Town,"Jul 27, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Romoney Crichlow,"Jun 3, 1999",Luton,22,"1,84 m",England,Defender - Centre-Back,left,NA,Swindon Town,"Aug 6, 2021","May 31, 2022",Huddersfield Town,"Jun 30, 2023",,NA,NA,NA,NA,NA
+Mathieu Baudry,"Feb 24, 1988",Le Havre,33,"1,88 m",France,Defender - Centre-Back,right,Midas Sports,Swindon Town,"Jul 1, 2019","Jun 30, 2022",NA,NA,,"Jul 8, 2020",NA,NA,NA,NA
+Dion Conroy,"Dec 11, 1995",Redhill,25,"1,81 m",England,Defender - Centre-Back,NA,ICM Stellar Sports,Swindon Town,"Jan 27, 2017","Jun 30, 2022",NA,NA,NA,"Jun 21, 2019",NA,NA,NA,NA
+Akin Odimayo,"Nov 28, 1999",NA,21,"1,83 m",England Nigeria,Defender - Centre-Back,right,Straight Ace Sports,Swindon Town,"Aug 18, 2020","Jun 30, 2021",NA,NA,NA,NA,NA,Option for a further year,NA,NA
+Ellis Iandolo,"Aug 22, 1997",Chatham,24,"1,86 m",England,Defender - Left-Back,NA,SSG,Swindon Town,"Aug 4, 2015","Jun 30, 2022",NA,NA,,"May 11, 2016",NA,NA,NA,NA
+Kaine Kesler,"Oct 23, 2002",NA,19,"1,75 m",England,Defender - Right-Back,right,Wasserman,Swindon Town,"Aug 2, 2021","May 31, 2022",Aston Villa U23,"Jun 30, 2026",,NA,NA,NA,NA,NA
+Rob Hunt,"Jul 7, 1995",Dagenham,26,"1,71 m",England,Defender - Right-Back,both,IWSM,Swindon Town,"Jul 1, 2019","Jun 30, 2022",NA,NA,NA,"Jul 15, 2020",NA,NA,NA,NA
+Ryan East,"Aug 7, 1998",NA,23,"1,76 m",England,midfield - Defensive Midfield,left,PIR,Swindon Town,"Aug 7, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Jordan Lyden,"Jan 30, 1996",Perth,25,"1,83 m",Australia England,midfield - Central Midfield,right,NA,Swindon Town,"Jul 26, 2019","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Ben Gladwin,"Jun 8, 1992",Reading,29,"1,90 m",England,midfield - Central Midfield,NA,NA,Swindon Town,"Jul 26, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Louis Reed,"Jul 25, 1997",Barnsley,24,"1,73 m",England,midfield - Central Midfield,right,Wasserman,Swindon Town,"Aug 6, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Anthony Grant,"Jun 4, 1987",London,34,"1,78 m",Jamaica England,midfield - Central Midfield,right,World in Motion,Swindon Town,"Jan 6, 2020","Jun 30, 2022",NA,NA,NA,"Aug 5, 2021",NA,NA,NA,NA
+Mo Dabre,"Jan 22, 2003",NA,18,NA,France,midfield - Central Midfield,NA,NA,Swindon Town,"Aug 4, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Jonathan Williams,"Oct 9, 1993",Tunbridge Wells,28,"1,68 m",Wales England,midfield - Attacking Midfield,left,New Era Global Sports,Swindon Town,"Aug 13, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Jack Payne,"Oct 25, 1994",London,27,"1,65 m",England,midfield - Attacking Midfield,left,Integral Sports Management,Swindon Town,"Aug 6, 2020","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Jayden Mitchell-Lawson,"Sep 17, 1999",NA,22,"1,68 m",England,midfield - Attacking Midfield,right,ICM Stellar Sports,Swindon Town,"Aug 19, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Alex Gilbert,"Dec 28, 2001",NA,19,"1,83 m",Ireland England,attack - Left Winger,NA,Elite Management Agency,Swindon Town,"Aug 31, 2021","May 31, 2022",Brentford FC B,-,NA,NA,NA,NA,NA,NA
+Tyreece Simpson,"Feb 7, 2002",Ipswich,19,"1,86 m",England,attack - Centre-Forward,left,Family & Football,Swindon Town,"Jul 31, 2021","May 31, 2022",Ipswich Town U23,"Jun 30, 2022",,NA,NA,NA,NA,NA
+Harry McKirdy,"Mar 29, 1997",London,24,"1,75 m",England,attack - Centre-Forward,NA,Elite Management Agency,Swindon Town,"Aug 4, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Harry Parsons,"Oct 9, 2002",NA,19,NA,England,attack - Centre-Forward,NA,New Vision,Swindon Town,"Jul 1, 2020","Jun 30, 2023",NA,NA,NA,"Jun 14, 2021",NA,NA,Swindon Town U18,NA
+Liam Roberts,"Nov 24, 1994",Walsall,26,"1,83 m",England,Goalkeeper,NA,NA,Northampton Town,"Jul 1, 2021","Jun 30, 2023",NA,NA,,NA,NA,NA,NA,NA
+Jonny Maxted,"Sep 16, 1992",Tadcaster,29,"1,90 m",England,Goalkeeper,right,366 Group,Northampton Town,"Jul 1, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Josh Flanagan,"Jun 30, 2003",NA,18,NA,England,Defender,NA,NA,Northampton Town,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Jon Guthrie,"Jul 29, 1992",Devizes,29,"1,93 m",England,Defender - Centre-Back,left,Volenti,Northampton Town,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Dominic Revan,"Sep 19, 2000",West Bromwich,21,NA,England St. Kitts & Nevis,Defender - Centre-Back,NA,NA,Northampton Town,"Aug 31, 2021","Dec 31, 2021",Aston Villa U23,-,,NA,NA,NA,NA,NA
+Sid Nelson,"Jan 1, 1996",London,25,"1,85 m",England,Defender - Centre-Back,right,Elite Management Agency,Northampton Town,"Jul 9, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Fraser Horsfall,"Nov 12, 1996",Huddersfield,24,"1,90 m",England,Defender - Centre-Back,right,CAA Base Ltd,Northampton Town,"Aug 14, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Max Dyche,"Feb 22, 2003",Northampton,18,NA,England,Defender - Centre-Back,NA,NA,Northampton Town,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Joseph Mills,"Oct 30, 1989",Swindon,32,"1,75 m",England,Defender - Left-Back,left,Momentum Sports Management,Northampton Town,"Aug 8, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Ali Koiki,"Aug 22, 1999",NA,22,"1,87 m",England Nigeria,Defender - Left-Back,left,Unique Sports Group,Northampton Town,"Jul 23, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Aaron McGowan,"Jul 24, 1996",Maghull,25,"1,75 m",England,Defender - Right-Back,right,NA,Northampton Town,"Jul 12, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Michael Harriman,"Oct 23, 1992",Chichester,29,"1,68 m",Ireland England,Defender - Right-Back,right,Volenti,Northampton Town,"Sep 4, 2019","Jun 30, 2022",NA,NA,NA,"Jul 10, 2020",NA,NA,NA,NA
+Liam Cross,"Apr 8, 2003",NA,18,NA,England,midfield,NA,NA,Northampton Town,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Jordan Flores,"Oct 4, 1995",Wigan,26,"1,80 m",England,midfield - Central Midfield,left,NA,Northampton Town,"Aug 6, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Jack Sowerby,"Mar 23, 1995",Preston,26,"1,75 m",England,midfield - Central Midfield,right,366 Group,Northampton Town,"Sep 18, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Shaun McWilliams,"Aug 14, 1998",Northampton,23,"1,80 m",England,midfield - Central Midfield,NA,New Era Global Sports,Northampton Town,"Jul 1, 2016","Jun 30, 2022",NA,NA,NA,"Jul 1, 2020",NA,NA,NA,NA
+Paul Lewis,"Dec 17, 1994",NA,26,"1,85 m",England,midfield - Central Midfield,right,LPM Football Agents,Northampton Town,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Scott Pollock,"Mar 13, 2001",Northampton,20,"1,78 m",England,midfield - Central Midfield,right,NA,Northampton Town,"Jul 1, 2019","Jun 30, 2022",NA,NA,NA,"May 28, 2021",adidas,NA,NA,NA
+Dylan Connolly,"May 2, 1995",Dublin,26,"1,76 m",Ireland,midfield - Attacking Midfield,NA,NA,Northampton Town,"Jul 1, 2021","Jun 30, 2023",NA,NA,,NA,NA,NA,NA,NA
+Mitch Pinnock,"Dec 12, 1994",Gravesend,26,"1,78 m",England,attack - Left Winger,left,NA,Northampton Town,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Sam Hoskins,"Feb 4, 1993",Dorchester,28,"1,73 m",England,attack - Right Winger,NA,Midas Sports,Northampton Town,"Aug 1, 2015","Jun 30, 2022",NA,NA,,"Jul 13, 2020",NA,NA,NA,NA
+Nicke Kabamba,"Feb 1, 1993",Brent,28,"1,91 m",DR Congo England,attack - Centre-Forward,right,ACHIEVE,Northampton Town,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Benny Ashley-Seal,"Nov 21, 1998",London,22,"1,85 m",England,attack - Centre-Forward,right,Elite Project Group Ltd,Northampton Town,"Sep 7, 2020","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Danny Rose,"Dec 10, 1993",Barnsley,27,"1,73 m",England,attack - Centre-Forward,right,Distinct Football,Northampton Town,"Oct 2, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Kion Etete,"Nov 28, 2001",Derby,19,"1,96 m",England Nigeria,attack - Centre-Forward,NA,Unique Sports Group,Northampton Town,"Aug 2, 2021","May 31, 2022",Tottenham Hotspur U23,"Jun 30, 2023",,NA,NA,NA,NA,NA
+Danny Rogers,"Mar 23, 1994","New York City, New York",27,"1,85 m",Ireland United States,Goalkeeper,NA,Wasserman,Oldham Athletic,"Aug 7, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Jayson Leutwiler,"Apr 25, 1989",Neuchâtel,32,"1,92 m",Canada Switzerland,Goalkeeper,right,Seven Sport,Oldham Athletic,"Jul 1, 2021","Jun 30, 2023",NA,NA,,NA,NA,NA,NA,NA
+Kacper Danielewicz,"Jan 11, 2004",NA,17,"1,92 m",Poland England,Goalkeeper,right,Agent is known - Player under 18,Oldham Athletic,"Aug 6, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Jordan Clarke,"Nov 19, 1991",Coventry,29,"1,83 m",England,Defender - Centre-Back,right,Elite Management Agency,Oldham Athletic,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Raphaël Diarra,"May 27, 1995",Paris,26,"1,85 m",France Mali,Defender - Centre-Back,right,NA,Oldham Athletic,"Nov 10, 2020","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Alan Sheehan,"Sep 14, 1986",Athlone,35,"1,80 m",Ireland,Defender - Centre-Back,NA,NA,Oldham Athletic,"Jul 23, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Harrison McGahey,"Sep 26, 1995",Preston,26,"1,87 m",England,Defender - Centre-Back,right,Omni-Sports,Oldham Athletic,"Jul 1, 2021","Jun 30, 2023",NA,NA,,NA,NA,NA,NA,NA
+Carl Piergianni,"May 3, 1992",Peterborough,29,"1,85 m",England Italy,Defender - Centre-Back,NA,LPM Football Agents,Oldham Athletic,"Aug 2, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Kyle Jameson,"Sep 11, 1998",Urmston,23,"1,83 m",England,Defender - Centre-Back,NA,NA,Oldham Athletic,"Sep 1, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Will Sutton,"Oct 30, 2002",NA,19,"1,81 m",England,Defender - Centre-Back,NA,NA,Oldham Athletic,"Nov 10, 2020","Jun 30, 2022",NA,NA,NA,"May 27, 2021",NA,NA,NA,NA
+Sam Hart,"Sep 10, 1996",Bolton,25,"1,83 m",England,Defender - Left-Back,left,Omni-Sports,Oldham Athletic,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Andrea Badan,"Mar 21, 1998",Monselice,23,"1,76 m",Italy,Defender - Left-Back,left,CAA Base Ltd,Oldham Athletic,"Sep 9, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Ousseynou Cissé,"Apr 6, 1991",Suresnes,30,"1,95 m",Mali France,midfield - Defensive Midfield,right,366 Group,Oldham Athletic,"Aug 7, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Callum Whelan,"Sep 24, 1998",Barnsley,23,"1,75 m",England,midfield - Defensive Midfield,right,no agent,Oldham Athletic,"Aug 28, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Jamie Bowden,"Jul 9, 2001",Middlesex,20,"1,83 m",Ireland England,midfield - Defensive Midfield,right,ICM Stellar Sports,Oldham Athletic,"Aug 7, 2021","May 31, 2022",Tottenham Hotspur U23,-,,NA,NA,NA,NA,NA
+Faysal Bettache,"Jul 7, 2000",London,21,"1,85 m",England Algeria,midfield - Central Midfield,left,NA,Oldham Athletic,"Aug 20, 2021","May 31, 2022",Queens Park Rangers,"Jun 30, 2023",NA,NA,NA,NA,NA,NA
+Nicky Adams,"Oct 16, 1986",Bolton,35,"1,78 m",Wales England,midfield - Right Midfield,right,NA,Oldham Athletic,"Jan 22, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Dylan Fage,"Mar 18, 1999",Paris,22,"1,78 m",France,midfield - Right Midfield,right,RSWORLDWIDE,Oldham Athletic,"Jul 30, 2019","Jun 30, 2022",NA,NA,NA,"Apr 23, 2021",NA,NA,NA,NA
+Jack Stobbs,"Feb 27, 1997",Leeds,24,"1,80 m",England,midfield - Left Midfield,NA,Pan Sports,Oldham Athletic,"Aug 4, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Davis Keillor-Dunn,"Nov 2, 1997",Sunderland,23,"1,80 m",England Scotland,midfield - Attacking Midfield,NA,SMI Sports Management,Oldham Athletic,"Aug 11, 2020","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Dylan Bahamboula,"May 22, 1995",Grigny,26,"1,92 m",Congo France,midfield - Attacking Midfield,right,turfu zone,Oldham Athletic,"Oct 2, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,,NA,NA
+Jamie Hopcutt,"Jun 23, 1992",York,29,"1,80 m",England Sweden,midfield - Attacking Midfield,right,Taldea Advisory Group,Oldham Athletic,"Aug 13, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,Option for a further year,NA,NA
+Harry Vaughan,"Apr 6, 2004",NA,17,NA,Ireland England,midfield - Attacking Midfield,NA,Agent is known - Player under 18,Oldham Athletic,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,"Jun 2, 2021",NA,Option for a further year,NA,NA
+Jack Williams,"May 16, 2003",NA,18,NA,England,attack - Right Winger,NA,NA,Oldham Athletic,"Jul 1, 2019","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Hallam Hope,"Mar 17, 1994",Manchester,27,"1,79 m",Barbados England,attack - Centre-Forward,right,Propel Sports,Oldham Athletic,"Jul 1, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Zak Dearnley,"Sep 28, 1998",Sheffield,23,"1,80 m",England,attack - Centre-Forward,right,CAA Base Ltd,Oldham Athletic,"Jan 14, 2020","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Vani Da Silva,"Nov 27, 2002",NA,18,"1,83 m",England,attack - Centre-Forward,NA,Unique Sports Group,Oldham Athletic,"Sep 4, 2020","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Junior Luamba,"Apr 27, 2003",NA,18,"1,88 m",England DR Congo,attack - Centre-Forward,right,IWSM,Oldham Athletic,"Sep 4, 2020","Jun 30, 2022",NA,NA,NA,"May 27, 2021",NA,club option 1 year,NA,NA
+Josh Lillis,"Jun 24, 1987",Derby,34,"1,83 m",England,Goalkeeper,NA,Star Management Signings Ltd.,Barrow AFC,"Sep 6, 2020","Jun 30, 2023",NA,NA,NA,"Jul 1, 2021",NA,NA,NA,NA
+Paul Farman,"Nov 2, 1989",North Tyneside,31,"1,96 m",England,Goalkeeper,right,LPM Football Agents,Barrow AFC,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Scott Moloney,"Feb 5, 2001",NA,20,"1,89 m",England,Goalkeeper,right,NA,Barrow AFC,"Sep 17, 2020","Jun 30, 2022",NA,NA,NA,"Jul 15, 2021",NA,NA,NA,NA
+Matty Platt,"Oct 3, 1997",Knowsley,24,"1,88 m",England,Defender - Centre-Back,right,NA,Barrow AFC,"Jul 29, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Mark Ellis,"Sep 30, 1988",Kingsbridge,33,"1,88 m",England,Defender - Centre-Back,NA,Integral Sports Management,Barrow AFC,"Jul 1, 2021","Jun 30, 2023",NA,NA,,NA,NA,NA,NA,NA
+Festus Arthur,"Feb 27, 2000",Hamburg,21,"1,87 m",Germany Ghana,Defender - Centre-Back,right,IWSM,Barrow AFC,"Aug 6, 2021","May 31, 2022",Hull City,"Jun 30, 2023",,NA,NA,NA,NA,NA
+James Jones,"Mar 13, 1997",Wrexham,24,"1,93 m",Wales,Defender - Centre-Back,right,NA,Barrow AFC,"Jul 31, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Joe Grayson,"Mar 26, 1999",NA,22,"1,78 m",England,Defender - Centre-Back,left,New Era Global Sports,Barrow AFC,"Jul 1, 2021","Jun 30, 2023",NA,NA,,NA,NA,NA,NA,NA
+Kgosi Ntlhe,"Feb 21, 1994","Pretoria, Gauteng",27,"1,75 m",South Africa England,Defender - Left-Back,left,NA,Barrow AFC,"Sep 3, 2020","Jun 30, 2022",NA,NA,NA,"Jun 23, 2021",NA,NA,NA,NA
+Patrick Brough,"Feb 20, 1996",Carlisle,25,"1,91 m",England,Defender - Left-Back,left,Omni-Sports,Barrow AFC,"Jul 1, 2019","Jun 30, 2023",NA,NA,,NA,NA,NA,NA,NA
+Connor Brown,"Aug 22, 1992",Sheffield,29,"1,75 m",England,Defender - Right-Back,right,NA,Barrow AFC,"Jul 7, 2018","Jun 30, 2022",NA,NA,NA,"May 14, 2019",NA,NA,NA,NA
+Remeao Hutton,"Sep 28, 1998",Walsall,23,"1,74 m",Burundi England,Defender - Right-Back,left,NA,Barrow AFC,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Tom Beadling,"Jan 16, 1996",Barrow,25,"1,86 m",Australia England,midfield - Defensive Midfield,right,CAA Base Ltd,Barrow AFC,"Jul 20, 2020","Jun 30, 2022",NA,NA,,NA,adidas,NA,NA,NA
+Robbie Gotts,"Nov 9, 1999",Harrogate,21,"1,77 m",England,midfield - Central Midfield,right,NA,Barrow AFC,"Aug 31, 2021","Jun 30, 2023",NA,NA,,NA,NA,NA,NA,NA
+Mike Jones,"Aug 15, 1987",Birkenhead,34,"1,83 m",England,midfield - Central Midfield,right,NA,Barrow AFC,"Jul 20, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Ollie Banks,"Sep 21, 1992",Rotherham,29,"1,91 m",England,midfield - Central Midfield,right,Major League Sports Management,Barrow AFC,"Jan 18, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Jason Taylor,"Jan 28, 1987",Ashton-under-Lyne,34,"1,85 m",England,midfield - Central Midfield,NA,NA,Barrow AFC,"Jul 16, 2018","Jun 30, 2023",NA,NA,NA,"Jun 10, 2021",NA,NA,NA,NA
+Tom White,"May 9, 1997",NA,24,"1,78 m",England,midfield - Central Midfield,NA,NA,Barrow AFC,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Jordan Stevens,"Mar 25, 2000",Gloucester,21,"1,78 m",England,midfield - Right Midfield,right,ICM Stellar Sports,Barrow AFC,"Aug 31, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Josh Kay,"Jan 30, 1997",Blackpool,24,"1,82 m",England,midfield - Left Midfield,right,Midas Sports,Barrow AFC,"Jul 1, 2018","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Jamie Devitt,"Jul 6, 1990",Dublin,31,"1,78 m",Ireland,midfield - Attacking Midfield,right,NA,Barrow AFC,"Jan 19, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+George Williams,"Sep 7, 1995",Milton Keynes,26,"1,72 m",Wales England,attack - Left Winger,left,CAA Base Ltd,Barrow AFC,"Aug 11, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,club option 1 year,NA,NA
+Luke James,"Nov 4, 1994",Amble,26,"1,83 m",England,attack - Centre-Forward,NA,NA,Barrow AFC,"Jul 20, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Offrande Zanzala,"Nov 8, 1996",Brazzaville,24,"1,85 m",Congo England,attack - Centre-Forward,right,Omari Williams,Barrow AFC,"Jul 1, 2021","Jun 30, 2023",NA,NA,,NA,NA,NA,NA,NA
+Josh Gordon,"Jan 19, 1995",Stoke-on-Trent,26,"1,78 m",England,attack - Centre-Forward,right,Elite Management Agency,Barrow AFC,"Jul 1, 2021","Jun 30, 2023",NA,NA,,NA,NA,NA,NA,NA
+Dimitri Sea,"May 2, 2001",Paris,20,"1,81 m",France,attack - Centre-Forward,right,NA,Barrow AFC,"Oct 26, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Blondy Nna Noukeu,"Sep 17, 2001",NA,20,"1,84 m",Cameroon Belgium,Goalkeeper,right,ICM Stellar Sports,Crawley Town,"Jul 16, 2021","May 31, 2022",Stoke City,-,NA,NA,NA,NA,NA,NA
+Glenn Morris,"Dec 20, 1983",London,37,"1,83 m",England,Goalkeeper,NA,NA,Crawley Town,"Jul 1, 2016","Jun 30, 2022",NA,NA,NA,"Sep 16, 2019",NA,Option for a further year,NA,NA
+Dion Henry,"Sep 12, 1997",Ipswich,24,"1,92 m",England,Goalkeeper,NA,NA,Crawley Town,"Oct 2, 2021","Oct 31, 2021",NA,NA,,NA,NA,NA,NA,NA
+Alfie Jones,"Oct 2, 2000",NA,21,NA,England Canada,Goalkeeper,NA,NA,Crawley Town,"Aug 8, 2019","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Tony Craig,"Apr 20, 1985",Greenwich,36,"1,84 m",England,Defender - Centre-Back,left,NA,Crawley Town,"Aug 1, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Joel Lynch,"Oct 3, 1987",Eastbourne,34,"1,85 m",Wales England,Defender - Centre-Back,left,MONDO,Crawley Town,"Sep 7, 2021","Jan 3, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Tom Dallison,"Feb 2, 1996",Romford,25,"1,93 m",England,Defender - Centre-Back,NA,Quorum Sports Advisors,Crawley Town,"Jan 8, 2019","Jun 30, 2022",NA,NA,,"Jan 15, 2020",NA,NA,NA,NA
+Ludwig Francillette,"May 1, 1999",NA,22,"1,93 m",France Guadeloupe,Defender - Centre-Back,right,NA,Crawley Town,"Aug 5, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,Option for a further year,NA,NA
+Jordan Tunnicliffe,"Oct 13, 1993",Nuneaton,28,"1,86 m",England,Defender - Centre-Back,NA,NA,Crawley Town,"Jul 11, 2019","Jun 30, 2022",NA,NA,NA,"May 18, 2021",NA,NA,NA,NA
+Owen Gallacher,"Apr 6, 1999",Newcastle upon Tyne,22,"1,74 m",Scotland England,Defender - Left-Back,right,Two Touch Agency,Crawley Town,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,Option for a further year,NA,NA
+Nick Tsaroulla,"Mar 29, 1999",Bristol,22,"1,78 m",Cyprus England,Defender - Left-Back,left,Emimel Sports Management,Crawley Town,"Oct 10, 2020","Jun 30, 2023",NA,NA,NA,"May 11, 2021",NA,NA,NA,NA
+George Francomb,"Sep 8, 1991",London,30,"1,80 m",England,Defender - Right-Back,right,KIN Partners,Crawley Town,"Jul 1, 2018","Jun 30, 2022",NA,NA,,"Jun 10, 2020",NA,NA,NA,NA
+Archie Davies,"Oct 7, 1998",NA,23,"1,83 m",England,Defender - Right-Back,right,Wasserman,Crawley Town,"Aug 1, 2020","Jun 30, 2022",NA,NA,,NA,NA,Option for a further year,NA,NA
+Henry Burnett,NA,NA,NA,NA,England,midfield,NA,NA,Crawley Town,"Oct 13, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Jack Payne,"Dec 5, 1991",Gravesend,29,"1,75 m",England,midfield - Central Midfield,NA,Deluxe Sports Group,Crawley Town,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Jake Hessenthaler,"Apr 20, 1994",Gravesend,27,"1,76 m",England,midfield - Central Midfield,right,Two Touch Agency,Crawley Town,"Sep 1, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,Option for a further year,NA,NA
+Jack Powell,"Jan 29, 1994",London,27,"1,77 m",England,midfield - Central Midfield,NA,NA,Crawley Town,"Jul 5, 2019","Jun 30, 2022",NA,NA,,"May 18, 2021",NA,NA,NA,NA
+Szymon Kowalczyk,"Aug 20, 2003",NA,18,"1,73 m",England,midfield - Central Midfield,right,NA,Crawley Town U18,"Aug 21, 2020","Jun 30, 2023",NA,NA,NA,NA,NA,Option for a further year,Crawley Town (#26),NA
+Reece Grego-Cox,"Nov 12, 1996",London,24,"1,78 m",Ireland England,midfield - Right Midfield,right,Elite Management Agency,Crawley Town,"Jul 16, 2018","Jun 30, 2022",NA,NA,NA,"Jul 16, 2019",NA,NA,NA,NA
+Tyler Frost,"Jul 7, 1999",NA,22,"1,75 m",England,midfield - Right Midfield,right,The Endgame Group,Crawley Town,"Aug 1, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Sam Matthews,"Mar 1, 1997",Poole,24,"1,76 m",England,midfield - Right Midfield,right,Midas Sports,Crawley Town,"Aug 1, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Will Ferry,"Dec 7, 2000",NA,20,"1,75 m",Ireland England,midfield - Left Midfield,left,Midas Sports,Crawley Town,"Aug 3, 2021","May 31, 2022",Southampton FC B,"Jun 30, 2023",NA,NA,NA,NA,NA,NA
+Zaid Al Hussaini,"Jun 7, 2000",London,21,"1,75 m",England Iraq,midfield - Attacking Midfield,NA,NA,Crawley Town,"Aug 1, 2020","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Rafiq Khaleel,"Feb 24, 2003",London,18,"1,77 m",Morocco England,midfield - Attacking Midfield,NA,Sync Global Sports,Crawley Town,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Kaan Kevser-Junior,NA,NA,NA,NA,England Turkey,midfield - Attacking Midfield,NA,NA,Crawley Town,"Oct 5, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,Option for a further year,NA,NA
+Mustafa Hussein,"Jul 24, 2000",NA,21,NA,England,attack,NA,NA,Crawley Town,"Feb 4, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,Option for a further year,NA,NA
+Mark Marshall,"May 9, 1986",Manchester,35,"1,70 m",Jamaica England,attack - Right Winger,left,NA,Crawley Town,"Sep 21, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Amrit Bansal-McNulty,"Mar 16, 2000",NA,21,"1,66 m",Northern Ireland England,attack - Right Winger,right,NA,Crawley Town,"Aug 31, 2021","Jan 3, 2022",Queens Park Rangers U23,-,NA,NA,NA,NA,NA,NA
+James Tilley,"Jun 13, 1998",Billingshurst,23,"1,74 m",England,attack - Right Winger,left,YMU Group,Crawley Town,"Jan 15, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Tom Nichols,"Aug 28, 1993",Taunton,28,"1,78 m",England,attack - Centre-Forward,NA,Volenti,Crawley Town,"Sep 7, 2020","Jun 30, 2022",NA,NA,NA,"May 18, 2021",NA,Option for a further year,NA,NA
+Kwesi Appiah,"Aug 12, 1990",London,31,"1,80 m",Ghana England,attack - Centre-Forward,NA,Wonder Sports,Crawley Town,"Aug 16, 2021","Jun 30, 2022",NA,NA,,NA,NA,Option for a further year,NA,NA
+Ashley Nadesan,"Sep 9, 1995",Redhill,26,"1,88 m",England,attack - Centre-Forward,NA,Elite Management Agency,Crawley Town,"Jul 1, 2019","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Alex Battle,"Jan 23, 1999",Plymouth,22,"1,82 m",England,attack - Centre-Forward,NA,NA,Crawley Town,"Sep 4, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,Option for a further year,NA,NA
+Sam Ashford,"Dec 21, 1995",Chelmsford,25,"1,85 m",England,attack - Centre-Forward,NA,ACHIEVE,Crawley Town,"Jul 1, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Davide Rodari,"Jun 23, 1999",NA,22,NA,Switzerland Italy,attack - Centre-Forward,NA,ACHIEVE,Crawley Town,"Jan 25, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,both parties 2 years,NA,NA
+Cameron Dawson,"Jul 7, 1995",Sheffield,26,"1,93 m",England,Goalkeeper,NA,Unique Sports Group,Exeter City,"Jul 29, 2021","May 31, 2022",Sheffield Wednesday,"Jun 30, 2024",NA,NA,NA,NA,NA,NA
+Scott Brown,"Apr 26, 1985",Wolverhampton,36,"1,84 m",England,Goalkeeper,right,World in Motion,Exeter City,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Harry Lee,"Dec 22, 2004",NA,16,NA,England,Goalkeeper,NA,NA,Exeter City,"Jul 2, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Jonathan Grounds,"Feb 2, 1988",Thornaby-on-Tees,33,"1,85 m",England,Defender - Centre-Back,left,NA,Exeter City,"Jul 26, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Sam Stubbs,"Nov 20, 1998",Liverpool,22,"1,83 m",England,Defender - Centre-Back,right,Wasserman,Exeter City,"Jan 21, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+George Ray,"Oct 13, 1993",Warrington,28,"1,78 m",Wales England,Defender - Centre-Back,NA,Omni-Sports,Exeter City,"Jul 1, 2021","Jun 30, 2023",NA,NA,,NA,NA,NA,NA,NA
+Pierce Sweeney,"Sep 11, 1994",Dublin,27,"1,83 m",Ireland,Defender - Centre-Back,right,NA,Exeter City,"Jul 8, 2021","Jun 30, 2023",NA,NA,,NA,NA,NA,NA,NA
+Alex Hartridge,"Mar 9, 1999",NA,22,"1,85 m",England,Defender - Centre-Back,NA,NA,Exeter City,"Jul 1, 2017","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Alfie Pond,"Mar 1, 2004",NA,17,NA,England,Defender - Centre-Back,right,NA,Exeter City,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Callum Rowe,"Sep 2, 1999",Leicester,22,"1,80 m",England,Defender - Left-Back,left,NA,Exeter City,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Colin Daniel,"Feb 15, 1988",Nottingham,33,"1,80 m",England,Defender - Left-Back,left,NA,Exeter City,"Aug 24, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Jack Sparkes,"Sep 29, 2000",Exmouth,21,"1,77 m",England,Defender - Left-Back,left,Unique Sports Group,Exeter City,"Jul 1, 2017","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Jake Caprice,"Nov 11, 1992",London,28,"1,79 m",England,Defender - Right-Back,right,NA,Exeter City,"Aug 6, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Josh Key,"Nov 19, 1999",Exeter,21,"1,78 m",England,Defender - Right-Back,NA,Omni-Sports,Exeter City,"Feb 7, 2018","Jun 30, 2023",NA,NA,,"Jan 28, 2021",NA,NA,NA,NA
+Timothée Dieng,"Apr 9, 1992",Grenoble,29,"1,89 m",France Senegal,midfield - Defensive Midfield,right,NA,Exeter City,"Jul 20, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Nigel Atangana,"Sep 9, 1989",Corbeil-Essonnes,32,"1,87 m",France Cameroon,midfield - Defensive Midfield,NA,366 Group,Exeter City,"Jul 1, 2019","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Kyle Taylor,"Aug 28, 1999",Richterswil,22,"1,67 m",England Switzerland,midfield - Central Midfield,right,Wasserman,Exeter City,"Aug 31, 2021","Jun 30, 2024",NA,NA,NA,NA,NA,NA,NA,NA
+Archie Collins,"Aug 31, 1999",Taunton,22,"1,74 m",England,midfield - Central Midfield,NA,Unique Sports Group,Exeter City,"Jul 1, 2017","Jun 30, 2022",NA,NA,NA,"Jul 22, 2021",NA,NA,NA,NA
+Harry Kite,"Jun 29, 2000",Crediton,21,"1,76 m",England,midfield - Central Midfield,NA,The Endgame Group,Exeter City,"Feb 7, 2018","Jun 30, 2023",NA,NA,NA,"Jan 28, 2021",NA,NA,NA,NA
+Josh Coley,"Jul 24, 1998",Stevenage,23,"1,77 m",England,midfield - Right Midfield,right,NA,Exeter City,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Nelson Iseguan,"Dec 11, 2002",NA,18,"1,85 m",England,attack - Left Winger,left,ICM Stellar Sports,Exeter City,"Sep 8, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Owura Edwards,"Apr 10, 2001",NA,20,"1,73 m",England Ghana,attack - Right Winger,right,Volenti,Exeter City,"Aug 20, 2021","May 31, 2021",Bristol City U23,"Jun 30, 2023",NA,NA,NA,NA,NA,NA
+Matt Jay,"Feb 27, 1996",Torbay,25,"1,78 m",England,attack - Second Striker,NA,Two Touch Agency,Exeter City,"Jul 1, 2014","Jun 30, 2023",NA,NA,NA,"Jan 28, 2021",NA,NA,NA,NA
+Jevani Brown,"Oct 16, 1994",Letchworth,27,"1,75 m",Jamaica England,attack - Second Striker,left,Wasserman,Exeter City,"Jul 1, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Padraig Amond,"Jan 15, 1988",Carlow,33,"1,80 m",Ireland,attack - Centre-Forward,NA,Elite Management Agency,Exeter City,"Aug 10, 2021","May 31, 2022",Newport County,"Jun 30, 2022",,NA,NA,NA,NA,NA
+Sam Nombe,"Oct 22, 1998",London,23,"1,80 m",England,attack - Centre-Forward,NA,NA,Exeter City,"Jul 5, 2021","Jun 30, 2024",NA,NA,,NA,NA,NA,NA,NA
+Ben Seymour,"Apr 16, 1999",Watford,22,"1,72 m",England,attack - Centre-Forward,NA,NA,Exeter City,"Jul 1, 2017","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Sonny Cox,NA,NA,NA,NA,England,attack - Centre-Forward,NA,Agent is known - Player under 18,Exeter City,"Sep 8, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,Exeter City U18,NA
+Joel Coleman,"Sep 26, 1995",Bolton,26,"1,98 m",England,Goalkeeper,right,YMU Group,Rochdale AFC,"Aug 6, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Jay Lynch,"Mar 31, 1993",Salford,28,"1,88 m",England,Goalkeeper,NA,Full Contact,Rochdale AFC,"Aug 19, 2019","Jun 30, 2022",NA,NA,,"Jun 19, 2021",NA,NA,NA,NA
+Bradley Wade,"Jul 3, 2000",Gloucester,21,"1,88 m",England,Goalkeeper,NA,FullNinety,Rochdale AFC,"Jul 1, 2018","Jun 30, 2022",NA,NA,NA,"Jun 26, 2019",NA,NA,NA,NA
+Jim McNulty,"Feb 13, 1985",Runcorn,36,"1,83 m",Scotland England,Defender - Centre-Back,left,NA,Rochdale AFC,"Jul 1, 2015","Jun 30, 2022",NA,NA,NA,"Jun 26, 2021",NA,NA,NA,NA
+Eoghan O'Connell,"Aug 13, 1995",Douglas,26,"1,87 m",Ireland,Defender - Centre-Back,right,SMI Sports Management,Rochdale AFC,"Jul 4, 2019","Jun 30, 2022",NA,NA,,"Jun 22, 2021",NA,NA,NA,NA
+Jeriel Dorsett,"May 4, 2002",NA,19,"1,85 m",England Nigeria,Defender - Centre-Back,left,Wasserman,Rochdale AFC,"Aug 20, 2021","May 31, 2022",Reading FC U23,"Jun 30, 2022",NA,NA,NA,NA,NA,NA
+Sam Graham,"Aug 13, 2000",NA,21,"1,91 m",England,Defender - Centre-Back,right,Wasserman,Rochdale AFC,"Jul 29, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Max Taylor,"Jan 10, 2000",Manchester,21,"1,88 m",England,Defender - Centre-Back,right,NA,Rochdale AFC,"Aug 2, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Joe Dunne,"Oct 25, 2001",NA,20,"1,83 m",England,Defender - Centre-Back,left,NA,Rochdale AFC,"Jul 1, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Matt Done,"Jul 22, 1988",Oswestry,33,"1,78 m",England Wales,Defender - Left-Back,left,Midas Sports,Rochdale AFC,"Aug 3, 2017","Jun 30, 2022",NA,NA,NA,"Jun 21, 2021",NA,NA,NA,NA
+Aidy White,"Oct 10, 1991",Leeds,30,"1,73 m",Ireland England,Defender - Left-Back,left,New Vision,Rochdale AFC,"Aug 5, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Corey O'Keeffe,"Jun 5, 1998",Birmingham,23,"1,84 m",Ireland,Defender - Right-Back,right,NA,Rochdale AFC,"Aug 3, 2021","Jan 1, 2022",Mansfield Town,"Jun 30, 2022",,NA,NA,NA,NA,NA
+Liam Kelly,"Nov 22, 1995",Basingstoke,25,"1,63 m",Ireland England,midfield - Central Midfield,right,Unique Sports Group,Rochdale AFC,"Aug 24, 2021","Jun 30, 2023",NA,NA,,NA,NA,NA,NA,NA
+George Broadbent,"Sep 30, 2000",NA,21,"1,75 m",England,midfield - Central Midfield,right,ICM Stellar Sports,Rochdale AFC,"Aug 3, 2021","Jan 1, 2022",Sheffield United U23,-,NA,NA,NA,NA,NA,NA
+Conor Grant,"Jul 23, 2001",Dublin,20,"1,78 m",Ireland,midfield - Central Midfield,right,Refuel Performance Management,Rochdale AFC,"Feb 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Jimmy Keohane,"Jan 22, 1991",Kilkenny,30,"1,80 m",Ireland,midfield - Central Midfield,right,NA,Rochdale AFC,"Feb 1, 2019","Jun 30, 2023",NA,NA,NA,"Jun 25, 2021",NA,NA,NA,NA
+Aaron Morley,"Feb 27, 2000",Bury,21,"1,74 m",England,midfield - Central Midfield,right,FullNinety,Rochdale AFC,"Jul 1, 2016","Jun 30, 2022",NA,NA,NA,"Jun 28, 2019",NA,NA,NA,NA
+Ethan Brierley,"Nov 23, 2003",Rochdale,17,"1,68 m",England,midfield - Central Midfield,NA,NA,Rochdale AFC,"Jul 1, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Stephen Dooley,"Oct 19, 1991",Portstewart,30,"1,80 m",Northern Ireland,midfield - Left Midfield,right,Quantum Sport,Rochdale AFC,"Jul 1, 2018","Jun 30, 2022",NA,NA,NA,"Jun 19, 2021",NA,NA,NA,NA
+Alex Newby,"Nov 21, 1995",Barrow-in-Furness,25,"1,73 m",England,attack - Right Winger,NA,NA,Rochdale AFC,"Aug 3, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Abraham Odoh,"Jan 25, 2000",NA,21,"1,68 m",England,attack - Right Winger,right,Sync Global Sports,Rochdale AFC,"Feb 26, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Jake Beesley,"Dec 2, 1996",Sheffield,24,"1,85 m",England,attack - Centre-Forward,NA,366 Group,Rochdale AFC,"Sep 24, 2020","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Josh Andrews,"Oct 16, 2001",Solihull,20,"1,91 m",England,attack - Centre-Forward,NA,InterLex Sport,Rochdale AFC,"Aug 10, 2021","May 31, 2022",Birmingham City U23,"Jun 30, 2022",NA,NA,NA,NA,NA,NA
+Danny Cashman,"Jan 8, 2001",Crawley,20,NA,England,attack - Centre-Forward,NA,Wasserman,Rochdale AFC,"Aug 7, 2021","May 31, 2022",Coventry City,"Jun 30, 2024",,NA,NA,NA,NA,NA
+Jack Rose,"Jan 31, 1995",Solihull,26,"1,90 m",England,Goalkeeper,NA,NA,Walsall FC,"Sep 3, 2020","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Carl Rushworth,"Jul 2, 2001",Halifax,20,NA,England,Goalkeeper,NA,NA,Walsall FC,"Jul 15, 2021","May 31, 2022",Brighton & Hove Albion U23,"Jun 30, 2023",NA,NA,NA,NA,NA,NA
+Ash Taylor,"Sep 2, 1990",Bromborough,31,"1,93 m",Wales Scotland,Defender - Centre-Back,right,ICM Stellar Sports,Walsall FC,"Jul 7, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Mat Sadler,"Feb 26, 1985",Birmingham,36,"1,80 m",England,Defender - Centre-Back,left,Beswicks Sports Ltd,Walsall FC,"Jul 11, 2019","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Manny Monthe,"Jan 26, 1995",Douala,26,"1,94 m",Cameroon England,Defender - Centre-Back,left,NA,Walsall FC,"Jul 1, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Tom Leak,"Oct 31, 2000 Happy Birthday",Burton upon Trent,21,"1,88 m",England,Defender - Centre-Back,NA,New Era Global Sports,Walsall FC,"Jul 1, 2019","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Rollin Menayese,"Dec 4, 1997",Kinshasa,23,"1,90 m",Wales DR Congo,Defender - Centre-Back,right,NA,Walsall FC,"Jul 16, 2021","May 31, 2022",Mansfield Town,"Jun 30, 2022",,NA,NA,NA,NA,NA
+Stephen Ward,"Aug 20, 1985",Dublin,36,"1,84 m",Ireland,Defender - Left-Back,left,Stonemountain Management,Walsall FC,"Jul 9, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Hayden White,"Apr 15, 1995",London,26,"1,85 m",England Jamaica,Defender - Right-Back,right,Beswicks Sports Ltd,Walsall FC,"Sep 3, 2020","Jun 30, 2023",NA,NA,NA,"Jun 18, 2021",NA,NA,NA,NA
+Zak Mills,"May 28, 1992",Peterborough,29,"1,83 m",England,Defender - Right-Back,right,Fifteen Eleven Management,Walsall FC,"Jul 8, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Liam Kinsella,"Feb 23, 1996",Colchester,25,"1,75 m",Ireland England,midfield - Defensive Midfield,right,New Era Global Sports,Walsall FC,"Jul 1, 2014","Jun 30, 2023",NA,NA,NA,"Jan 5, 2021",NA,NA,NA,NA
+Joss Labadie,"Aug 30, 1990",London,31,"1,88 m",England,midfield - Central Midfield,NA,Emimel Sports Management,Walsall FC,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Alfie Bates,"May 3, 2001",Coventry,20,"1,70 m",England,midfield - Central Midfield,NA,InterLex Sport,Walsall FC,"Jul 1, 2019","Jun 30, 2023",NA,NA,NA,"Jan 5, 2021",NA,NA,NA,NA
+Sam Perry,"Dec 29, 2001",NA,19,"1,84 m",England,midfield - Central Midfield,NA,InterLex Sport,Walsall FC,"Jul 1, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Emmanuel Osadebe,"Oct 1, 1996",Dundalk,25,"1,88 m",Ireland England,midfield - Right Midfield,right,Elite Management Agency,Walsall FC,"Sep 3, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Brendan Kiernan,"Nov 10, 1992",London,28,"1,75 m",England,midfield - Right Midfield,NA,LPM Football Agents,Walsall FC,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Jack Earing,"Jan 21, 1999",Bury,22,"1,82 m",England,midfield - Attacking Midfield,right,NA,Walsall FC,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Otis Khan,"Sep 5, 1995",Manchester,26,"1,75 m",England Pakistan,attack - Left Winger,right,NA,Walsall FC,"Oct 18, 2021","Dec 31, 2021",NA,NA,,NA,NA,NA,NA,NA
+Rory Holden,"Aug 23, 1997",Derry,24,"1,65 m",Northern Ireland,attack - Right Winger,left,Major League Sports Management,Walsall FC,"Aug 11, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Tyrese Shade,"Jun 9, 2000",Birmingham,21,"1,83 m",St. Kitts & Nevis England,attack - Right Winger,NA,ASC,Walsall FC,"Aug 3, 2021","May 31, 2022",Leicester City U23,"Jun 30, 2022",,NA,NA,NA,NA,NA
+Kieran Phillips,"Feb 18, 2000",NA,21,"1,81 m",England,attack - Centre-Forward,NA,Wasserman,Walsall FC,"Jul 12, 2021","May 31, 2022",Huddersfield Town,"Jun 30, 2022",NA,NA,NA,NA,NA,NA
+Conor Wilkinson,"Jan 23, 1995",Croydon,26,"1,91 m",Ireland England,attack - Centre-Forward,right,New Era Global Sports,Walsall FC,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+George Miller,"Aug 11, 1998",Bolton,23,"1,78 m",England,attack - Centre-Forward,NA,SMI Sports Management,Walsall FC,"Aug 31, 2021","May 31, 2022",Barnsley FC,"Jun 30, 2022",NA,NA,NA,NA,NA,NA
+Joe Day,"Aug 13, 1990",Brighton,31,"1,86 m",England,Goalkeeper,right,Elite Management Agency,Newport County,"Jul 1, 2021","Jun 30, 2024",NA,NA,NA,NA,NA,NA,NA,NA
+Nick Townsend,"Nov 1, 1994",Solihull,26,"1,81 m",England,Goalkeeper,NA,ICM Stellar Sports,Newport County,"Aug 4, 2018","Jun 30, 2023",NA,NA,,"Apr 12, 2021",NA,NA,NA,NA
+James Clarke,"Nov 17, 1989",Aylesbury,31,"1,83 m",England,Defender - Centre-Back,right,Volenti,Newport County,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Mickey Demetriou,"Mar 12, 1990",Durrington,31,"1,88 m",England Cyprus,Defender - Centre-Back,left,Full Contact,Newport County,"Jan 10, 2017","Jun 30, 2023",NA,NA,NA,"Jul 13, 2019",NA,NA,NA,NA
+Priestley Farquharson,"Mar 15, 1997",London,24,"1,91 m",England Jamaica,Defender - Centre-Back,right,ICM Stellar Sports,Newport County,"Jan 29, 2021","Jun 30, 2023",NA,NA,NA,"Jul 6, 2020",NA,NA,NA,NA
+Joe Woodiwiss,"Nov 10, 2002",NA,18,"1,79 m",Wales,Defender - Centre-Back,NA,NA,Newport County,"Jul 1, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Ryan Haynes,"Sep 27, 1995",Northampton,26,"1,85 m",England,Defender - Left-Back,NA,ICM Stellar Sports,Newport County,"Jul 12, 2019","Jun 30, 2022",NA,NA,NA,"Jun 22, 2021",NA,NA,NA,NA
+Louis Hall,"May 23, 1999",NA,22,"1,74 m",England,Defender - Left-Back,left,NA,Newport County,"Jul 29, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Cameron Norman,"Oct 12, 1995",Norwich,26,"1,88 m",England,Defender - Right-Back,right,366 Group,Newport County,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Aaron Lewis,"Jun 26, 1998",Swansea,23,"1,83 m",Wales,Defender - Right-Back,right,Beswicks Sports Ltd,Newport County,"Feb 2, 2021","Jun 30, 2023",NA,NA,,"Jun 24, 2021",NA,NA,NA,NA
+Aneurin Livermore,"Jan 18, 2003",Chepstow,18,NA,Wales,midfield,NA,NA,Newport County U18,"Jul 2, 2018","Jun 30, 2022",NA,NA,,NA,NA,NA,Newport County (#56),NA
+Matt Dolan,"Feb 11, 1993",Hartlepool,28,"1,75 m",England,midfield - Defensive Midfield,left,NA,Newport County,"Jul 1, 2017","Jun 30, 2023",NA,NA,NA,"Jun 21, 2019",NA,NA,NA,NA
+Scot Bennett,"Nov 30, 1990",Newquay,30,"1,78 m",England,midfield - Defensive Midfield,right,Volenti,Newport County,"Jul 1, 2016","Jun 30, 2023",NA,NA,NA,"Jun 16, 2021",NA,NA,NA,NA
+Christopher Missilou,"Jul 18, 1992",Auxerre,29,"1,80 m",Congo France,midfield - Defensive Midfield,right,Omari Williams,Newport County,"Jul 2, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Ed Upson,"Nov 21, 1989",Bury St. Edmonds,31,"1,78 m",England,midfield - Central Midfield,right,ICM Stellar Sports,Newport County,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Finn Azaz,"Sep 7, 2000",London,21,"1,85 m",England,midfield - Central Midfield,NA,Unique Sports Group,Newport County,"Jul 26, 2021","May 31, 2022",Aston Villa U23,-,NA,NA,NA,NA,NA,NA
+Jake Cain,"Sep 2, 2001",Wigan,20,"1,76 m",England,midfield - Central Midfield,right,Midas Sports,Newport County,"Aug 31, 2021","May 31, 2022",Liverpool FC U23,"Jun 30, 2022",,NA,NA,NA,NA,NA
+Robbie Willmott,"May 16, 1990",Harlow,31,"1,75 m",England,midfield - Right Midfield,left,NA,Newport County,"Jul 1, 2017","Jun 30, 2022",NA,NA,,"Jun 30, 2021",NA,NA,NA,NA
+Lewys Twamley,"May 26, 2003",NA,18,"1,68 m",Wales,midfield - Left Midfield,NA,New Era Global Sports,Newport County,"Jul 1, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Oliver Cooper,"Dec 14, 1999",Derby,21,"1,76 m",Wales England,midfield - Attacking Midfield,right,ICM Stellar Sports,Newport County,"Aug 31, 2021","May 31, 2022",Swansea City U23,"Jun 30, 2023",NA,NA,NA,NA,NA,NA
+Jermaine Hylton,"Jun 28, 1993",Birmingham,28,"1,76 m",England,attack - Left Winger,right,Elite Management Agency,Newport County,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Kevin Ellison,"Feb 23, 1979",Liverpool,42,"1,85 m",England,attack - Left Winger,left,NA,Newport County,"Sep 4, 2020","Jun 30, 2022",NA,NA,NA,"Jul 26, 2021",NA,NA,NA,NA
+Courtney Senior,"Jun 30, 1997",Croydon,24,"1,76 m",England Jamaica,attack - Right Winger,right,NA,Newport County,"Jul 6, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Lewis Collins,"May 9, 2001",Newport,20,"1,78 m",Wales,attack - Second Striker,NA,Elite Management Agency,Newport County,"Jul 1, 2019","Jun 30, 2023",NA,NA,,"Jun 11, 2021",NA,NA,NA,NA
+Ryan Hillier,"Jan 18, 2003",NA,18,"1,75 m",Wales,attack - Second Striker,NA,GSF Agency,Newport County,"Jul 1, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Courtney Baker-Richardson,"Dec 5, 1995",Coventry,25,"1,85 m",England,attack - Centre-Forward,right,Elite Management Agency,Newport County,"Jul 1, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Alex Fisher,"Jun 30, 1990",London,31,"1,90 m",England,attack - Centre-Forward,NA,366 Group,Newport County,"Aug 14, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Dom Telford,"Dec 5, 1996",Burnley,24,"1,75 m",England,attack - Centre-Forward,left,SMI Sports Management,Newport County,"Jan 28, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Jordan Greenidge,"Jan 5, 2000",London,21,"1,93 m",England,attack - Centre-Forward,left,NA,Newport County,"Aug 4, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Timmy Abraham,"Dec 28, 2000",London,20,"1,85 m",England Nigeria,attack - Centre-Forward,right,NA,Newport County,"Jul 28, 2021","May 31, 2022",Fulham FC U23,-,,NA,NA,NA,NA,NA
+Lucas,"Jun 6, 1991",Curitiba,30,"1,93 m",Brazil Italy,Goalkeeper,right,ACHIEVE,Port Vale FC,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,Lucas Covolan Cavagnari
+Aidan Stone,"Jul 20, 1999",Stafford,22,"1,86 m",England,Goalkeeper,NA,Beswicks Sports Ltd,Port Vale FC,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Joseph Collinge,"Sep 6, 2003",NA,18,NA,England,Goalkeeper,NA,The Sports Agents,Port Vale FC,"Jan 22, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Aaron Martin,"Sep 29, 1989",Newport,32,"1,90 m",England,Defender - Centre-Back,right,IWSM,Port Vale FC,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Leon Legge,"Apr 28, 1985",Hastings,36,"1,93 m",England St. Lucia,Defender - Centre-Back,right,Fifty Fifty Sports,Port Vale FC,"Jul 1, 2018","Jun 30, 2022",NA,NA,NA,"Mar 13, 2020",NA,NA,NA,NA
+Nathan Smith,"Apr 3, 1996",Madeley,25,"1,80 m",England,Defender - Centre-Back,right,Kangs Solicitors,Port Vale FC,"Jul 1, 2015","Jun 30, 2022",NA,NA,NA,"Jul 10, 2020",NA,NA,NA,NA
+Ryan Johnson,"Oct 2, 1996",Birmingham,25,"1,88 m",Northern Ireland England,Defender - Centre-Back,left,NA,Port Vale FC,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Lewis Cass,"Feb 27, 2000",North Shields,21,"1,85 m",England,Defender - Centre-Back,right,CAA Base Ltd,Port Vale FC,"Jul 12, 2021","May 31, 2022",Newcastle United U23,"Jun 30, 2022",NA,NA,NA,NA,NA,NA
+Dan Jones,"Dec 14, 1994",Bishop Auckland,26,"1,83 m",England,Defender - Left-Back,left,Quantum Sport,Port Vale FC,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,"Jun 10, 2021",NA,NA,NA,NA
+Mal Benning,"Nov 2, 1993",Sandwell,27,"1,78 m",England India,Defender - Left-Back,left,Distinct Football,Port Vale FC,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Danny Amos,"Dec 22, 1999",Sheffield,21,"1,80 m",Northern Ireland England,Defender - Left-Back,left,NA,Port Vale FC,"Sep 3, 2021","Dec 31, 2021",NA,NA,NA,NA,NA,NA,NA,NA
+James Gibbons,"Mar 16, 1998",Trentham,23,"1,75 m",England,Defender - Right-Back,right,Kangs Solicitors,Port Vale FC,"Jul 1, 2016","Jun 30, 2022",NA,NA,,"Mar 13, 2020",NA,NA,NA,NA
+Brad Walker,"Apr 25, 1995",Billingham,26,"1,85 m",England,midfield - Defensive Midfield,NA,Deluxe Sports Group,Port Vale FC,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Ben Garrity,"Feb 21, 1997",NA,24,"1,82 m",England,midfield - Central Midfield,right,NA,Port Vale FC,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Tom Pett,"Nov 30, 1991",Potters Bar,29,"1,73 m",England,midfield - Central Midfield,NA,LPM Football Agents,Port Vale FC,"Jul 1, 2021","Jun 30, 2023",NA,NA,,NA,NA,NA,NA,NA
+Scott Burgess,"Jun 27, 1996",Warrington,25,"1,79 m",England,midfield - Central Midfield,NA,366 Group,Port Vale FC,"Jul 1, 2019","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Tom Conlon,"Feb 3, 1996",Stoke-on-Trent,25,"1,73 m",England,midfield - Central Midfield,NA,ICM Stellar Sports,Port Vale FC,"Jul 25, 2018","Jun 30, 2024",NA,NA,NA,"May 25, 2021",NA,NA,NA,NA
+Danny Whitehead,"Oct 23, 1993",Stretford,28,"1,79 m",England,midfield - Central Midfield,right,366 Group,Port Vale FC,"Aug 3, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Jake Taylor,"Sep 8, 1998",Manchester,23,"1,78 m",England,midfield - Central Midfield,right,NA,Port Vale FC,"Jan 11, 2021","Jun 30, 2024",NA,NA,NA,NA,NA,NA,NA,NA
+David Worrall,"Jun 12, 1990",Manchester,31,"1,83 m",England,midfield - Right Midfield,right,NA,Port Vale FC,"Aug 24, 2017","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Dennis Politic,"Mar 5, 2000",Braşov,21,"1,85 m",Romania,midfield - Right Midfield,right,ICM Stellar Sports,Port Vale FC,"Aug 16, 2021","May 31, 2022",Bolton Wanderers,"Jun 30, 2022",,NA,NA,NA,NA,NA
+Alex Hurst,"Oct 6, 1999",NA,22,"1,73 m",England,attack - Left Winger,NA,NA,Port Vale FC,"Jul 28, 2019","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+David Amoo,"Apr 13, 1991",London,30,"1,78 m",England Nigeria,attack - Right Winger,right,Wasserman,Port Vale FC,"Jul 8, 2019","Jun 30, 2022",NA,NA,NA,"Jul 1, 2020",NA,NA,NA,NA
+Devante Rodney,"May 19, 1998",Manchester,23,"1,78 m",England,attack - Right Winger,NA,CAA Base Ltd,Port Vale FC,"Jul 7, 2020","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+James Wilson,"Dec 1, 1995",Biddulph,25,"1,83 m",England,attack - Centre-Forward,left,SSG,Port Vale FC,"Jul 1, 2021","Jun 30, 2023",NA,NA,,NA,adidas,NA,NA,NA
+Jamie Proctor,"Mar 25, 1992",Preston,29,"1,88 m",England,attack - Centre-Forward,right,CAA Base Ltd,Port Vale FC,"Jul 5, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+George Lloyd,"Feb 11, 2000",Gloucester,21,"1,75 m",England,attack - Centre-Forward,right,D&S Sports Management LTD,Port Vale FC,"Aug 30, 2021","May 31, 2022",Cheltenham Town,"Jun 30, 2022",NA,NA,NA,NA,NA,NA
+Jonathan Mitchell,"Nov 24, 1994",Hartlepool,26,"1,80 m",England,Goalkeeper,right,Omni-Sports,Hartlepool United,"Aug 6, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Ben Killip,"Nov 24, 1995",London,25,"1,88 m",England,Goalkeeper,NA,NA,Hartlepool United,"Jul 1, 2019","Jun 30, 2022",NA,NA,NA,"Jul 12, 2021",NA,NA,NA,NA
+Patrick Boyes,"Sep 25, 2002",NA,19,NA,England,Goalkeeper,NA,Ignite Soccer Agency,Hartlepool United,"Oct 25, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Gary Liddle,"Jun 15, 1986",Middlesbrough,35,"1,85 m",England,Defender - Centre-Back,right,World in Motion,Hartlepool United,"Aug 1, 2020","Jun 30, 2022",NA,NA,NA,"Jul 6, 2021",NA,NA,NA,NA
+Neill Byrne,"Feb 2, 1993",Portmarnock,28,"1,90 m",Ireland,Defender - Centre-Back,NA,LPM Football Agents,Hartlepool United,"Jul 16, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Timi Odusina,"Oct 28, 1999",NA,22,"1,86 m",England Nigeria,Defender - Centre-Back,right,NA,Hartlepool United,"Aug 1, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Jake Lawlor,"Apr 8, 1991",Halifax,30,"1,93 m",England,Defender - Centre-Back,NA,NA,Hartlepool United,"Aug 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Zaine Francis-Angol,"Jun 30, 1993",London,28,"1,73 m",Antigua and Barbuda England,Defender - Left-Back,left,NA,Hartlepool United,"Apr 22, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+David Ferguson,"Jun 7, 1994",Sunderland,27,"1,80 m",England,Defender - Left-Back,left,NA,Hartlepool United,"Aug 5, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Edward Jones,"Oct 25, 2001",NA,20,"1,83 m",Wales,Defender - Left-Back,left,SMI Sports Management,Hartlepool United,"Aug 31, 2021","Dec 31, 2021",Stoke City U23,"Jun 30, 2022",NA,NA,NA,NA,NA,NA
+Luke Hendrie,"Aug 27, 1994",Leeds,27,"1,87 m",England Scotland,Defender - Right-Back,right,Wasserman,Hartlepool United,"Aug 30, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Jamie Sterry,"Nov 21, 1995",Newcastle,25,"1,80 m",England Italy,Defender - Right-Back,right,NA,Hartlepool United,"Dec 21, 2020","Jun 30, 2023",NA,NA,,"Jul 12, 2021",NA,NA,NA,NA
+Reagan Ogle,"Mar 29, 1999",Wollongong,22,"1,73 m",Australia England,Defender - Right-Back,right,NA,Hartlepool United,"Jul 12, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Nicky Featherstone,"Sep 22, 1988",Goole,33,"1,70 m",England,midfield - Central Midfield,right,NA,Hartlepool United,"Oct 31, 2014","Jun 30, 2023",NA,NA,NA,"Jul 6, 2021",NA,NA,NA,NA
+Martin Smith,"Oct 2, 1995",Sunderland,26,"1,78 m",England,midfield - Central Midfield,right,Deluxe Sports Group,Hartlepool United,"Jul 16, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Mark Shelton,"Sep 12, 1996",Nottingham,25,"1,78 m",England,midfield - Central Midfield,right,NA,Hartlepool United,"Aug 1, 2020","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Tom Crawford,"May 30, 1999",NA,22,"1,85 m",England,midfield - Central Midfield,NA,NA,Hartlepool United,"Aug 24, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Tyler Burey,"Jan 9, 2001",London,20,"1,87 m",England Jamaica,midfield - Left Midfield,right,NA,Hartlepool United,"Aug 5, 2021","Jan 1, 2022",Millwall FC U23,-,NA,NA,NA,NA,NA,NA
+Matty Daly,"Mar 10, 2001",Stockport,20,"1,75 m",England,midfield - Attacking Midfield,right,10Ten Football,Hartlepool United,"Aug 5, 2021","May 31, 2022",Huddersfield Town,-,NA,NA,NA,NA,NA,NA
+Luke Molyneux,"Mar 29, 1998",Bishop Auckland,23,"1,80 m",England,midfield - Attacking Midfield,left,CAA Base Ltd,Hartlepool United,"Jul 1, 2019","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Gavan Holohan,"Dec 15, 1991",Kilkenny,29,"1,80 m",Ireland,attack - Left Winger,NA,Deluxe Sports Group,Hartlepool United,"Feb 28, 2019","Jun 30, 2022",NA,NA,,"Feb 28, 2019",NA,NA,NA,NA
+Jordan Cook,"Mar 20, 1990",Sunderland,31,"1,74 m",England,attack - Second Striker,right,New Era Global Sports,Hartlepool United,"Sep 16, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Mark Cullen,"Apr 21, 1992",Ashington,29,"1,76 m",England,attack - Centre-Forward,NA,Deluxe Sports Group,Hartlepool United,"Aug 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Will Goodwin,"May 11, 2002",Tarporley,19,"1,85 m",England,attack - Centre-Forward,NA,Fifteen Eleven Management,Hartlepool United,"Aug 11, 2021","Dec 31, 2021",Stoke City U23,"Jun 30, 2023",,NA,NA,NA,NA,NA
+Joe Grey,"May 4, 2003",NA,18,"1,76 m",England,attack - Centre-Forward,NA,CAA Base Ltd,Hartlepool United,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Olufela Olomola,"Sep 5, 1997",London,24,"1,70 m",England Nigeria,attack - Centre-Forward,right,366 Group,Hartlepool United,"Jul 21, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Mike Fondop,"Nov 27, 1993",Yaoundé,27,"1,90 m",England Cameroon,attack - Centre-Forward,left,RT Management & Consultancy,Hartlepool United,"Sep 16, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Mark Howard,"Sep 21, 1986",Southwark,35,"1,90 m",England,Goalkeeper,right,Stonemountain Management,Carlisle United,"Oct 14, 2021","Dec 31, 2021",NA,NA,,NA,NA,NA,NA,NA
+Magnus Norman,"Jan 19, 1997",London,24,"1,93 m",England,Goalkeeper,right,Every Aspect,Carlisle United,"Aug 7, 2020","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Lukas Jensen,"Mar 18, 1999",Helsingør,22,"1,98 m",Denmark,Goalkeeper,right,KHM Football,Carlisle United,"Jul 20, 2021","May 31, 2022",Burnley FC,"Jun 30, 2022",NA,NA,NA,NA,NA,NA
+Rod McDonald,"Apr 11, 1992",Liverpool,29,"1,90 m",England,Defender - Centre-Back,left,Refuel Performance Management,Carlisle United,"Aug 3, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Jonathan Dinzeyi,"Oct 13, 1999",London,22,"1,95 m",England DR Congo,Defender - Centre-Back,right,Elite Project Group Ltd,Carlisle United,"Aug 31, 2021","May 31, 2022",Arsenal FC U23,-,,NA,NA,NA,NA,NA
+Morgan Feeney,"Feb 8, 1999",Bootle,22,"1,90 m",England,Defender - Centre-Back,right,no agent,Carlisle United,"Jan 20, 2021","Jun 30, 2022",NA,NA,,"May 17, 2021",NA,club option 1 year,NA,NA
+Jack Armer,"Apr 16, 2001",Preston,20,"1,85 m",Scotland England,Defender - Left-Back,left,Omni-Sports,Carlisle United,"Aug 6, 2020","Jun 30, 2023",NA,NA,NA,"May 21, 2021",NA,NA,NA,NA
+Kelvin Mellor,"Jan 25, 1991",Crewe,30,"1,88 m",England,Defender - Right-Back,right,366 Group,Carlisle United,"Aug 31, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Corey Whelan,"Dec 10, 1997",Chester,23,"1,80 m",Ireland England,Defender - Right-Back,right,Crown Football Ltd,Carlisle United,"Jul 1, 2021","Jun 30, 2023",NA,NA,,NA,NA,NA,NA,NA
+Josh Dixon,"Feb 7, 2001",NA,20,"1,81 m",England,midfield,right,NA,Carlisle United,"Jul 1, 2019","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Jon Mellish,"Sep 19, 1997",South Shields,24,"1,88 m",England,midfield - Defensive Midfield,left,Black Diamond Sports,Carlisle United,"Jul 1, 2019","Jun 30, 2023",NA,NA,NA,"Sep 27, 2021",NA,Option for a further year,NA,NA
+Joe Riley,"Dec 6, 1996",Blackpool,24,"1,83 m",England,midfield - Central Midfield,right,NA,Carlisle United,"Aug 5, 2020","Jun 30, 2022",NA,NA,,NA,NA,Option for a further year,NA,NA
+Callum Guy,"Nov 25, 1996",Nottingham,24,"1,78 m",England,midfield - Central Midfield,right,Omni-Sports,Carlisle United,"Jan 30, 2020","Jun 30, 2023",NA,NA,,"Sep 30, 2021",NA,NA,NA,NA
+Daniel Devine,"Sep 4, 1997",Bradford,24,"1,80 m",England,midfield - Central Midfield,right,Every Aspect,Carlisle United,"Aug 6, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Taylor Charters,"Oct 2, 2001",NA,20,"1,85 m",England,midfield - Central Midfield,NA,SMI Sports Management,Carlisle United,"Jul 1, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Keelan Leslie,"May 23, 2003",NA,18,NA,England,midfield - Central Midfield,NA,NA,Carlisle United,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Brennan Dickenson,"Feb 26, 1993",Ashford,28,"1,84 m",England,midfield - Left Midfield,left,New Vision,Carlisle United,"Aug 13, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Jordan Gibson,"Feb 26, 1998",Birmingham,23,"1,78 m",England,attack - Left Winger,right,14 Sports Management,Carlisle United,"Aug 30, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Lewis Bell,"Sep 29, 2002",NA,19,"1,81 m",England,attack - Right Winger,right,PIR,Carlisle United,"Aug 31, 2020","Jun 30, 2023",NA,NA,NA,NA,NA,club option 1 year,NA,NA
+Zach Clough,"Mar 8, 1995",Manchester,26,"1,70 m",England,attack - Second Striker,right,Omni-Sports,Carlisle United,"Jul 1, 2021","Jun 30, 2023",NA,NA,,NA,adidas,NA,NA,NA
+Lewis Alessandra,"Feb 8, 1989",Bury,32,"1,78 m",England,attack - Second Striker,right,NA,Carlisle United,"Jan 24, 2020","Jun 30, 2022",NA,NA,NA,"May 19, 2020",NA,NA,NA,NA
+Tristan Abrahams,"Dec 29, 1998",London,22,"1,75 m",England,attack - Centre-Forward,left,Elite Management Agency,Carlisle United,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Brad Young,"Jan 6, 2003",NA,18,"1,85 m",England,attack - Centre-Forward,NA,Omni-Sports,Carlisle United,"Aug 16, 2021","May 31, 2022",Aston Villa U23,"Jun 30, 2023",,NA,NA,NA,NA,NA
+Manasse Mampala,"Jul 18, 2000",Kinshasa,21,"1,82 m",England DR Congo,attack - Centre-Forward,NA,Sync Global Sports,Carlisle United,"Jul 23, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Luke McGee,"Sep 2, 1995",Edgware,26,"1,93 m",England,Goalkeeper,right,NA,Forest Green Rovers,"Jul 15, 2020","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Lewis Thomas,"Sep 20, 1997",Swansea,24,"1,85 m",Wales,Goalkeeper,right,Refuel Performance Management,Forest Green Rovers,"Jul 1, 2018","Jun 30, 2022",NA,NA,NA,"Jun 8, 2021",NA,NA,NA,NA
+Baily Cargill,"Jul 5, 1995",Winchester,26,"1,89 m",England,Defender - Centre-Back,left,Wasserman,Forest Green Rovers,"Jan 7, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Jordan Moore-Taylor,"Jan 21, 1994",Exeter,27,"1,80 m",England,Defender - Centre-Back,left,Unique Sports Group,Forest Green Rovers,"Jul 21, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Dan Sweeney,"Apr 25, 1994",London,27,"1,91 m",England,Defender - Centre-Back,right,Elite Management Agency,Forest Green Rovers,"Jul 1, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Udoka Godwin-Malife,"May 9, 2000",NA,21,"1,80 m",England,Defender - Centre-Back,right,Wasserman,Forest Green Rovers,"Jan 24, 2019","Jun 30, 2023",NA,NA,NA,"Jun 17, 2021",NA,NA,NA,NA
+Jack Evans,"Aug 10, 2000",Warrington,21,"1,73 m",England,Defender - Left-Back,left,FullNinety,Forest Green Rovers,"Jul 7, 2020","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Kane Wilson,"Mar 11, 2000",Birmingham,21,"1,78 m",England,Defender - Right-Back,right,Wasserman,Forest Green Rovers,"Jul 8, 2020","Jun 30, 2022",NA,NA,,NA,adidas,NA,NA,NA
+Dominic Bernard,"Mar 29, 1997",Gloucester,24,"1,80 m",Ireland England,Defender - Right-Back,right,World in Motion,Forest Green Rovers,"Jul 17, 2019","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Sadou Diallo,"Jun 10, 1999",NA,22,"1,88 m",England Guinea,midfield - Defensive Midfield,right,Closeview Sports Management,Forest Green Rovers,"Jul 1, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Ben Stevenson,"Mar 23, 1997",Leicester,24,"1,82 m",England,midfield - Central Midfield,right,Unique Sports Group,Forest Green Rovers,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Regan Hendry,"Jan 21, 1998",Edinburgh,23,"1,76 m",Scotland,midfield - Central Midfield,left,NA,Forest Green Rovers,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Elliott Whitehouse,"Oct 27, 1993",Worksop,28,"1,80 m",England,midfield - Central Midfield,right,LPM Football Agents,Forest Green Rovers,"Aug 10, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Ebou Adams,"Jan 15, 1996",London,25,"1,78 m",The Gambia England,midfield - Central Midfield,right,NA,Forest Green Rovers,"Jul 1, 2019","Jun 30, 2022",NA,NA,,"Jul 17, 2020",NA,NA,NA,NA
+Taylor Allen,"Jun 16, 2000",NA,21,"1,78 m",England,midfield - Central Midfield,left,Unique Sports Group,Forest Green Rovers,"Jul 1, 2019","Jun 30, 2022",NA,NA,NA,"Jun 8, 2021",NA,NA,NA,NA
+Harvey Bunker,"Apr 15, 2003",Portsmouth,18,"1,83 m",England,midfield - Central Midfield,right,NA,Forest Green Rovers,"Jul 1, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Opi Edwards,"Apr 30, 1999",Bristol,22,"1,71 m",England,midfield - Right Midfield,right,Volenti,Forest Green Rovers,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Nicky Cadden,"Sep 19, 1996",Bellshill,25,"1,78 m",Scotland,midfield - Left Midfield,left,PLG Scotland,Forest Green Rovers,"Jul 3, 2020","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Vaughn Covil,"Jul 26, 2003",NA,18,"1,79 m",United States England,attack - Right Winger,right,SHINE Entertainment Media,Forest Green Rovers,"Jul 1, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Jamille Matt,"Oct 20, 1989",Kingston,32,"1,86 m",Jamaica England,attack - Centre-Forward,right,Refuel Performance Management,Forest Green Rovers,"Jul 20, 2020","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Jack Aitchison,"Mar 5, 2000",Fauldhouse,21,"1,80 m",Scotland,attack - Centre-Forward,right,First Access Sports,Forest Green Rovers,"Jul 2, 2021","May 31, 2022",Barnsley FC,"Jun 30, 2023",,NA,NA,NA,NA,NA
+Mathew Stevens,"Feb 12, 1998",Guildford,23,"1,80 m",England,attack - Centre-Forward,right,NA,Forest Green Rovers,"Jul 27, 2019","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Jake Young,"Jul 22, 2001",Huddersfield,20,"1,86 m",England,attack - Centre-Forward,right,NA,Forest Green Rovers,"Jul 16, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Josh March,"Mar 18, 1997",Stourbridge,24,"1,75 m",England,attack - Centre-Forward,right,NA,Forest Green Rovers,"Jan 6, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Richard O'Donnell,"Sep 12, 1988",Sheffield,33,"1,88 m",England,Goalkeeper,left,NA,Bradford City,"Jul 1, 2018","Jun 30, 2022",NA,NA,,"Jul 20, 2020",NA,NA,NA,NA
+Sam Hornby,"Feb 14, 1995",NA,26,"1,88 m",England,Goalkeeper,NA,Integral Sports Management,Bradford City,"Jul 1, 2019","Jun 30, 2023",NA,NA,NA,"Jun 21, 2021",NA,NA,NA,NA
+Niall Canavan,"Apr 11, 1991",Leeds,30,"1,91 m",Ireland England,Defender - Centre-Back,right,Deluxe Sports Group,Bradford City,"Jan 12, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Paudie O'Connor,"Jul 14, 1997",Ballybrown,24,"1,91 m",Ireland,Defender - Centre-Back,NA,NA,Bradford City,"Jul 1, 2019","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Fiacre Kelleher,"Mar 10, 1996",Cork,25,"1,90 m",Ireland,Defender - Centre-Back,right,NA,Bradford City,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Reece Staunton,"Dec 10, 2001",Bradford,19,"1,83 m",Ireland England,Defender - Centre-Back,left,Chris Brandon,Bradford City,"Dec 24, 2019","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Liam Ridehalgh,"Apr 20, 1991",Halifax,30,"1,78 m",England,Defender - Left-Back,left,366 Group,Bradford City,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Matty Foulds,"Feb 17, 1998",Bradford,23,"1,78 m",England,Defender - Left-Back,left,NA,Bradford City,"Jan 16, 2021","Jun 30, 2022",NA,NA,,"Jun 15, 2021",NA,NA,NA,NA
+Oscar Threlkeld,"Dec 15, 1994",Bolton,26,"1,84 m",England,Defender - Right-Back,right,SME 83,Bradford City,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Finn Cousin-Dawson,"Jul 4, 2002",NA,19,"1,83 m",Northern Ireland England,Defender - Right-Back,right,Two Touch Agency,Bradford City,"Jul 1, 2020","Jun 30, 2024",NA,NA,NA,"Jul 22, 2020",NA,NA,NA,NA
+Charlie Wood,"Oct 5, 2002",NA,19,NA,England,midfield,NA,Autograph Sports Management,Bradford City,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Yann Songo'o,"Nov 17, 1991",Toulon,29,"1,84 m",Cameroon France,midfield - Defensive Midfield,right,Marco Kirdemir,Bradford City,"Jul 1, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Levi Sutton,"Mar 24, 1996",Scunthorpe,25,"1,80 m",England,midfield - Defensive Midfield,right,NA,Bradford City,"Jul 11, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Elliot Watt,"Mar 11, 2000",Preston,21,"1,75 m",Scotland England,midfield - Central Midfield,NA,Omni-Sports,Bradford City,"Jul 27, 2020","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Olivier Sukiennicki,"May 25, 2003",Częstochowa,18,NA,Poland,midfield - Central Midfield,NA,Unique Sports Group,Bradford City,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Gareth Evans,"Apr 26, 1988",Macclesfield,33,"1,79 m",England,midfield - Right Midfield,right,no agent,Bradford City,"Sep 25, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Callum Cooke,"Feb 21, 1997",Peterlee,24,"1,72 m",England,midfield - Attacking Midfield,right,NA,Bradford City,"Jul 25, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Kian Scales,"Dec 1, 2002",NA,18,"1,81 m",England,midfield - Attacking Midfield,right,NA,Bradford City,"Jul 1, 2020","Jun 30, 2023",NA,NA,NA,"Jun 16, 2021",NA,NA,NA,NA
+Abo Eisa,"Jan 5, 1996",Khartoum,25,"1,80 m",England Sudan,attack - Left Winger,right,Family & Football,Bradford City,"Jul 1, 2021","Jun 30, 2023",NA,NA,,NA,NA,NA,NA,NA
+Charles Vernam,"Oct 8, 1996",London,25,"1,70 m",England,attack - Left Winger,right,Wasserman,Bradford City,"Feb 1, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Alex Gilliead,"Feb 11, 1996",Consett,25,"1,83 m",England,attack - Right Winger,right,SMI Sports Management,Bradford City,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Theo Robinson,"Jan 22, 1989",Birmingham,32,"1,75 m",Jamaica England,attack - Centre-Forward,right,NA,Bradford City,"Aug 31, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Lee Angol,"Aug 4, 1994",London,27,"1,87 m",England,attack - Centre-Forward,NA,NA,Bradford City,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Caolan Lavery,"Oct 22, 1992","Red Deer, Alberta",29,"1,80 m",Northern Ireland Canada,attack - Centre-Forward,right,Unique Sports Group,Bradford City,"Aug 2, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Andy Cook,"Oct 18, 1990",Bishop Auckland,31,"1,85 m",England,attack - Centre-Forward,right,Fifty Fifty Sports,Bradford City,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Lawrence Vigouroux,"Nov 19, 1993",London,27,"1,94 m",Chile England,Goalkeeper,right,Refuel Performance Management,Leyton Orient,"Jan 2, 2020","Jun 30, 2023",NA,NA,,"Jul 6, 2021",NA,NA,NA,NA
+Sam Sargeant,"Sep 23, 1997",London,24,"1,87 m",England,Goalkeeper,NA,New Era Global Sports,Leyton Orient,"Jul 1, 2016","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Rhys Byrne,"Aug 22, 2002",NA,19,"1,80 m",England,Goalkeeper,right,Integral Sports Management,Leyton Orient,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Adam Thompson,"Sep 28, 1992",Harlow,29,"1,83 m",Northern Ireland England,Defender - Centre-Back,right,366 Group,Leyton Orient,"Jan 30, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Omar Beckles,"Oct 25, 1991",London,30,"1,88 m",Grenada England,Defender - Centre-Back,right,NA,Leyton Orient,"Jul 1, 2021","Jun 30, 2023",NA,NA,,NA,NA,NA,NA,NA
+Dan Happe,"Sep 28, 1998",London,23,"1,97 m",England,Defender - Centre-Back,left,Wasserman,Leyton Orient,"Oct 2, 2017","Jun 30, 2023",NA,NA,NA,"Jun 21, 2021",NA,NA,NA,NA
+Alex Mitchell,"Feb 12, 2002",NA,19,"1,91 m",England,Defender - Centre-Back,NA,Coda Independent Sports,Leyton Orient,"Aug 31, 2021","May 31, 2022",Millwall FC U23,"Jun 30, 2023",NA,NA,NA,NA,NA,NA
+Connor Wood,"Jul 17, 1996",Harlow,25,"1,77 m",England,Defender - Left-Back,left,Major League Sports Management,Leyton Orient,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Jayden Sweeney,"Dec 4, 2001",NA,19,"1,78 m",England,Defender - Left-Back,left,Elite Management Agency,Leyton Orient,"Jul 1, 2019","Jun 30, 2023",NA,NA,NA,"May 26, 2021",NA,NA,NA,NA
+Shadrach Ogie,"Aug 26, 2001",Limerick,20,"1,85 m",Ireland Nigeria,Defender - Left-Back,left,NA,Leyton Orient,"Jul 1, 2019","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Tom James,"Apr 15, 1996",Cardiff,25,"1,80 m",Wales,Defender - Right-Back,right,CAA Base Ltd,Leyton Orient,"Jul 19, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Antony Papadopoulos,"Oct 6, 2002",NA,19,NA,England Cyprus,midfield,NA,NA,Leyton Orient,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Hector Kyprianou,"May 27, 2001",London,20,"1,89 m",Cyprus England,midfield - Defensive Midfield,NA,New Vision,Leyton Orient,"Jul 1, 2019","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Darren Pratley,"Apr 22, 1985",London,36,"1,86 m",England Jamaica,midfield - Central Midfield,right,New Vision,Leyton Orient,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Callum Reilly,"Oct 3, 1993",Warrington,28,"1,85 m",Ireland England,midfield - Central Midfield,left,Integral Sports Management,Leyton Orient,"Aug 31, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Craig Clay,"May 5, 1992",Nottingham,29,"1,80 m",England,midfield - Central Midfield,NA,NA,Leyton Orient,"Jul 17, 2017","Jun 30, 2023",NA,NA,NA,"May 20, 2019",NA,NA,NA,NA
+Matt Young,"Dec 9, 2002",NA,18,"1,71 m",England,midfield - Central Midfield,NA,SSG,Leyton Orient,"Jul 1, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Theo Archibald,"Mar 5, 1998",Glasgow,23,"1,80 m",Scotland,midfield - Left Midfield,left,Omni-Sports,Leyton Orient,"Jul 29, 2021","May 31, 2022",Lincoln City,-,,NA,NA,NA,NA,NA
+Paul Smyth,"Sep 10, 1997",Belfast,24,"1,75 m",Northern Ireland,attack - Right Winger,right,NA,Leyton Orient,"Jul 1, 2021","Jun 30, 2023",NA,NA,,NA,NA,NA,NA,NA
+Dan Kemp,"Jan 11, 1999",Sidcup,22,"1,68 m",England,attack - Right Winger,left,Elite Management Agency,Leyton Orient,"Jan 15, 2021","Jun 30, 2023",NA,NA,,NA,NA,NA,NA,NA
+Aaron Drinan,"May 6, 1998",Cork,23,"1,82 m",Ireland,attack - Centre-Forward,left,NA,Leyton Orient,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Harry Smith,"May 18, 1995",Chatham,26,"1,96 m",England,attack - Centre-Forward,right,Every Aspect,Leyton Orient,"Jul 7, 2021","Jun 30, 2023",NA,NA,,NA,NA,NA,NA,NA
+Tyrese Omotoye,"Sep 23, 2002",NA,19,NA,Belgium England,attack - Centre-Forward,right,ICM Stellar Sports,Leyton Orient,"Aug 17, 2021","May 31, 2022",Norwich City U23,"Jun 30, 2024",,NA,NA,NA,NA,NA
+Ruel Sotiriou,"Aug 24, 2000",London,21,"1,80 m",Cyprus England,attack - Centre-Forward,right,Emimel Sports Management,Leyton Orient,"Jul 1, 2018","Jun 30, 2022",NA,NA,NA,"Aug 14, 2020",NA,NA,NA,NA
+Daniel Nkrumah,"Nov 5, 2003",NA,17,NA,England Ghana,attack - Centre-Forward,NA,NA,Leyton Orient,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Adam Smith,"Nov 23, 1992",Sunderland,28,"1,93 m",England,Goalkeeper,right,IWSM,Stevenage FC,"Oct 23, 2021","Jan 31, 2022",NA,NA,,NA,NA,NA,NA,NA
+Sacha Bastien,"Jan 22, 1995",Metz,26,"1,96 m",France,Goalkeeper,right,RT Management & Consultancy,Stevenage FC,"Aug 2, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Joseph Anang,"Jun 8, 2000",NA,21,"1,90 m",England Ghana,Goalkeeper,right,Philip Mbah,Stevenage FC,"Jul 1, 2021","May 31, 2022",West Ham United U23,"Jun 30, 2024",NA,NA,NA,NA,NA,NA
+Scott Cuthbert,"Jun 15, 1987",Alexandria,34,"1,88 m",Scotland,Defender - Centre-Back,right,NA,Stevenage FC,"Jul 1, 2018","Jun 30, 2022",NA,NA,NA,"Jun 15, 2020",NA,NA,NA,NA
+Luke Prosser,"May 28, 1988",London,33,"1,91 m",England,Defender - Centre-Back,left,NA,Stevenage FC,"Aug 10, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Terence Vancooten,"Dec 29, 1997",London,23,"1,85 m",Guyana England,Defender - Centre-Back,right,ICM Stellar Sports,Stevenage FC,"Jul 18, 2017","Jun 30, 2023",NA,NA,NA,"Aug 5, 2021",NA,NA,NA,NA
+Ross Marshall,"Oct 9, 1999",Norwich,22,"1,91 m",England,Defender - Centre-Back,right,Lilywhite Evo,Stevenage FC,"Jul 10, 2020","Jun 30, 2022",NA,NA,NA,"Aug 7, 2021",NA,NA,NA,NA
+Ben Coker,"Jul 1, 1990",Cambridge,31,"1,80 m",England,Defender - Left-Back,left,New Era Global Sports,Stevenage FC,"Oct 16, 2020","Jun 30, 2022",NA,NA,NA,"May 28, 2021",NA,NA,NA,NA
+Max Melbourne,"Oct 24, 1998",NA,23,"1,78 m",England,Defender - Left-Back,left,AFC Ltd,Stevenage FC,"Aug 31, 2021","Jan 1, 2022",Lincoln City,"Jun 30, 2022",,NA,NA,NA,NA,NA
+Brad Barry,"Feb 13, 1995",Hastings,26,"1,83 m",England,Defender - Right-Back,right,NA,Stevenage FC,"Jul 8, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Luther James-Wildin,"Dec 3, 1997",Leicester,23,"1,78 m",Antigua and Barbuda England,Defender - Right-Back,NA,Unique Sports Group,Stevenage FC,"Jul 1, 2018","Jun 30, 2022",NA,NA,NA,"Jun 26, 2021",NA,NA,NA,NA
+Alfie Williams,"Apr 20, 2003",Watford,18,NA,England,midfield,left,NA,Stevenage FC,"Jan 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,club option 1 year,NA,NA
+Jack Smith,"Sep 15, 2001",NA,20,"1,85 m",England,midfield - Defensive Midfield,NA,Progress Manage,Stevenage FC,"Jul 1, 2019","Jun 30, 2023",NA,NA,NA,"Jun 24, 2021",NA,NA,NA,NA
+Jake Reeves,"May 30, 1993",Greenwich,28,"1,73 m",England,midfield - Central Midfield,NA,NA,Stevenage FC,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Jake Taylor,"Dec 1, 1991",Ascot,29,"1,78 m",Wales England,midfield - Central Midfield,right,ASC,Stevenage FC,"Jul 1, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Chris Lines,"Nov 30, 1985",Bristol,35,"1,88 m",England,midfield - Central Midfield,right,Volenti,Stevenage FC,"Jan 5, 2021","Jun 30, 2022",NA,NA,NA,"Jun 26, 2021",NA,NA,NA,NA
+Arthur Read,"Nov 3, 1999",London,21,"1,78 m",England,midfield - Central Midfield,left,NA,Stevenage FC,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Charlie Carter,"Oct 25, 1996",London,25,"1,85 m",England,midfield - Attacking Midfield,NA,NA,Stevenage FC,"Jul 1, 2019","Jun 30, 2022",NA,NA,NA,"May 26, 2021",NA,NA,NA,NA
+Elliot Osborne,"May 12, 1996",Stoke-on-Trent,25,"1,83 m",England,midfield - Attacking Midfield,NA,Beswicks Sports Ltd,Stevenage FC,"Jul 1, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Bruno Andrade,"Oct 2, 1993",Viseu,28,"1,75 m",Portugal Cape Verde,attack - Left Winger,right,PowerHause SG,Stevenage FC,"Aug 26, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Elliott List,"May 12, 1997",London,24,"1,78 m",England,attack - Right Winger,NA,PODIA SPORTS LTD,Stevenage FC,"Aug 31, 2019","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Luke Norris,"Jun 3, 1993",Stevenage,28,"1,82 m",England,attack - Centre-Forward,NA,Two Touch Agency,Stevenage FC,"Jan 5, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+James Daly,"Jan 12, 2000",Brighton,21,"1,78 m",England,attack - Centre-Forward,left,NA,Stevenage FC,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Jamie Reid,"Jul 15, 1994",Torquay,27,"1,81 m",Northern Ireland England,attack - Centre-Forward,right,Volenti,Stevenage FC,"Jul 13, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Tom Billson,"Oct 18, 2000",NA,21,"1,88 m",England,Goalkeeper,NA,First Access Sports,Scunthorpe United,"Jul 26, 2021","May 31, 2022",Coventry City U23,-,NA,NA,NA,NA,NA,NA
+Rory Watson,"Feb 5, 1996",York,25,"1,90 m",England,Goalkeeper,NA,HSD,Scunthorpe United,"Jan 31, 2017","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Tom Collins,"Aug 4, 2002",NA,19,"1,80 m",England,Goalkeeper,left,Unique Sports Group,Scunthorpe United,"Jul 1, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+George Taft,"Jul 29, 1993",Leicester,28,"1,91 m",England,Defender - Centre-Back,left,Major League Sports Management,Scunthorpe United,"Feb 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Harry Davis,"Sep 24, 1991",Burnley,30,"1,85 m",England,Defender - Centre-Back,right,NA,Scunthorpe United,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Emmanuel Onariase,"Oct 21, 1996",London,25,"1,88 m",England Nigeria,Defender - Centre-Back,right,NA,Scunthorpe United,"Aug 3, 2020","Jun, 2022",NA,NA,,NA,NA,NA,NA,NA
+Lewis Thompson,"Oct 10, 1999",NA,22,"1,85 m",Northern Ireland England,Defender - Left-Back,NA,CAA Base Ltd,Scunthorpe United,"Jul 16, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Mason O'Malley,"Jun 8, 2001",NA,20,"1,70 m",Ireland England,Defender - Left-Back,NA,NA,Scunthorpe United,"Jul 1, 2020","Jun 30, 2022",NA,NA,NA,"May 5, 2020",NA,NA,NA,NA
+Ross Millen,"Sep 28, 1994",Glasgow,27,"1,86 m",Scotland,Defender - Right-Back,right,NA,Scunthorpe United,"Jul 6, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Jai Rowe,"Aug 8, 2001",Nuneaton,20,"1,81 m",England,Defender - Right-Back,right,Omni-Sports,Scunthorpe United,"Jul 1, 2020","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Alex Kenyon,"Jul 17, 1992",Euxton,29,"1,82 m",England,midfield - Defensive Midfield,NA,INS Management,Scunthorpe United,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Alex Perry,"Mar 4, 1998",Liverpool,23,"1,76 m",England,midfield - Defensive Midfield,right,SMI Sports Management,Scunthorpe United,"Jul 27, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Hayden Hackney,"Jun 26, 2002",Middlesbrough,19,NA,England,midfield - Central Midfield,NA,SMI Sports Management,Scunthorpe United,"Aug 31, 2021","Jun 30, 2022",Middlesbrough FC U23,-,NA,NA,NA,NA,NA,NA
+Harry Wood,"Aug 2, 2002",Leeds,19,NA,England,midfield - Central Midfield,NA,NA,Scunthorpe United,"Aug 31, 2021","May 31, 2022",Hull City U23,"Jun 30, 2023",NA,NA,NA,NA,NA,NA
+Finley Shrimpton,"Aug 24, 2002",NA,19,NA,England,midfield - Central Midfield,NA,NA,Scunthorpe United,"Jul 27, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Tom Pugh,"Sep 27, 2000",NA,21,"1,69 m",Wales,midfield - Central Midfield,right,Unique Sports Group,Scunthorpe United,"Jul 1, 2020","Jun 30, 2022",NA,NA,NA,"May 5, 2020",NA,club option 1 year,NA,NA
+Dan Gallimore,"Mar 21, 2003",Grimsby,18,NA,England,midfield - Central Midfield,NA,Seven Sport,Scunthorpe United,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Alfie Beestin,"Oct 1, 1997",Leeds,24,"1,78 m",England,midfield - Attacking Midfield,NA,CAA Base Ltd,Scunthorpe United,"Jan 15, 2020","Jun 30, 2022",NA,NA,,"Jul 8, 2020",NA,NA,NA,NA
+Jordan Hallam,"Oct 6, 1998",Sheffield,23,"1,73 m",England,midfield - Attacking Midfield,NA,NA,Scunthorpe United,"Jan 25, 2019","Jun 30, 2023",NA,NA,NA,"Jun 15, 2021",NA,NA,NA,NA
+Cameron Wilson,"Dec 1, 2002",Scunthorpe,18,NA,England,midfield - Attacking Midfield,NA,Seven Sport,Scunthorpe United,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Harry Bunn,"Nov 21, 1992",Oldham,28,"1,75 m",England,attack - Left Winger,right,ICM Stellar Sports,Scunthorpe United,"Jul 23, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Myles Hippolyte,"Nov 9, 1994",London,26,"1,83 m",England Grenada,attack - Left Winger,left,NA,Scunthorpe United,"Aug 29, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Devarn Green,"Aug 26, 1996",NA,25,"1,81 m",England,attack - Right Winger,right,SMI Sports Management,Scunthorpe United,"Jan 31, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Kenan Dünnwald-Turan,"Nov 14, 1995",Düsseldorf,25,"1,89 m",Germany,attack - Centre-Forward,NA,TPWE GmbH,Scunthorpe United,"Sep 3, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Ryan Loft,"Sep 14, 1997",Gravesend,24,"1,90 m",England,attack - Centre-Forward,NA,CS-Management Ltd,Scunthorpe United,"Aug 31, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Harry Jessop,"Aug 1, 2002",NA,19,"1,80 m",England,attack - Centre-Forward,left,IWSM,Scunthorpe United,"Jul 1, 2020","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Jake Scrimshaw,"Sep 13, 2000",Isle of Wight,21,NA,England,attack - Centre-Forward,NA,Avid Sports Group,Scunthorpe United,"Aug 20, 2021","May 31, 2022",AFC Bournemouth U21,"Jun 30, 2022",NA,NA,NA,NA,NA,NA
+Aaron Jarvis,"Jan 24, 1998",Basingstoke,23,"1,88 m",England,attack - Centre-Forward,NA,NA,Scunthorpe United,"Aug 3, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Tyrone O'Neill,"Oct 12, 1999",Grangetown,22,"1,86 m",England,attack - Centre-Forward,NA,SMI Sports Management,Scunthorpe United,"Jul 23, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Dean Bouzanis,"Oct 2, 1990",Sydney,31,"1,89 m",Australia Greece,Goalkeeper,right,Aspire Management,Sutton United,"Aug 7, 2020","Jun 30, 2022",NA,NA,NA,"Jun 30, 2021",NA,NA,NA,NA
+Bradley House,"Oct 19, 1998",NA,23,"1,85 m",England,Goalkeeper,NA,World in Motion,Sutton United,"Dec 7, 2020","Jun 30, 2022",NA,NA,NA,"Jun 30, 2021",NA,NA,NA,NA
+Filip Chalupniczak,"Feb 15, 2001",Koźmin Wielkopolski,20,"1,87 m",Poland,Goalkeeper,NA,I-N-I Music & Sport Agency,Sutton United,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Coby Rowe,"Oct 2, 1995",London,26,"1,92 m",England Jamaica,Defender - Centre-Back,right,D&S Sports Management LTD,Sutton United,"Jan 11, 2020","Jun 30, 2022",NA,NA,NA,"Jun 17, 2021",NA,NA,NA,NA
+Ben Goodliffe,"Jun 19, 1999",Watford,22,"1,88 m",England,Defender - Centre-Back,NA,World in Motion,Sutton United,"Jul 12, 2019","Jun 30, 2022",NA,NA,NA,"Jun 29, 2021",NA,NA,NA,NA
+Louis John,"Apr 19, 1994",NA,27,"1,90 m",England St. Vincent & Grenadinen,Defender - Centre-Back,right,LPM Football Agents,Sutton United,"Jan 23, 2020","Jun 30, 2022",NA,NA,NA,"Jun 30, 2021",NA,NA,NA,NA
+Rob Milsom,"Jan 2, 1987",Redhill,34,"1,80 m",England,Defender - Left-Back,left,LPM Football Agents,Sutton United,"Aug 1, 2019","Jun 30, 2022",NA,NA,NA,"Jun 29, 2021",NA,NA,NA,NA
+Ben Wyatt,"Feb 4, 1996",Norwich,25,"1,73 m",England,Defender - Left-Back,left,NA,Sutton United,"Sep 1, 2019","Jun 30, 2022",NA,NA,NA,"Jun 29, 2021",NA,NA,NA,NA
+Jonathan Barden,"Nov 9, 1992",Harrow,28,"1,80 m",England,Defender - Right-Back,right,World in Motion,Sutton United,"Mar 12, 2019","Jun 30, 2022",NA,NA,,"Jun 30, 2021",NA,NA,NA,NA
+Joe Kizzi,"Jun 24, 1993",London,28,"1,88 m",England,Defender - Right-Back,right,NA,Sutton United,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Craig Eastmond,"Dec 9, 1990",London,30,"1,82 m",England Jamaica,midfield - Defensive Midfield,right,NA,Sutton United,"Sep 9, 2015","Jun 30, 2022",NA,NA,,"Jun 27, 2021",NA,NA,NA,NA
+Harry Beautyman,"Apr 1, 1992",London,29,"1,78 m",England,midfield - Central Midfield,right,NA,Sutton United,"Jan 4, 2018","Jun 30, 2022",NA,NA,NA,"Jun 27, 2021",NA,NA,NA,NA
+Kenny Davis,"Apr 17, 1988",London,33,"1,72 m",England,midfield - Central Midfield,right,NA,Sutton United,"Jul 1, 2017","Jun 30, 2022",NA,NA,NA,"Jun 27, 2021",NA,NA,NA,NA
+Adam Lovatt,"May 11, 1999",NA,22,"1,80 m",England,midfield - Central Midfield,right,NA,Sutton United,"Nov 30, 2020","Jun 30, 2022",NA,NA,NA,"Jun 17, 2021",NA,NA,NA,NA
+Alistair Smith,"May 19, 1999",Beverley,22,"1,87 m",England,midfield - Central Midfield,NA,Elite Management Agency,Sutton United,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Will Randall,"May 2, 1997",Swindon,24,"1,80 m",England,attack - Left Winger,right,NA,Sutton United,"Jul 17, 2019","Jun 30, 2022",NA,NA,NA,"Jun 29, 2021",NA,NA,NA,NA
+Ricky Korboa,"Aug 2, 1996",NA,25,"1,78 m",England,attack - Left Winger,right,NA,Sutton United,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Enzio Boldewijn,"Nov 17, 1992",Amsterdam,28,"1,85 m",Netherlands Suriname,attack - Right Winger,right,366 Group,Sutton United,"Jul 6, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+David Ajiboye,"Sep 28, 1998",NA,23,"1,72 m",England Nigeria,attack - Right Winger,right,World in Motion,Sutton United,"Jul 1, 2019","Jun 30, 2022",NA,NA,NA,"Jun 29, 2021",NA,NA,NA,NA
+Donovan Wilson,"Mar 14, 1997",Yate,24,"1,80 m",England Jamaica,attack - Centre-Forward,NA,Quorum Sports Advisors,Sutton United,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Isaac Olaofe,"Nov 21, 1999",Lewisham,21,"1,81 m",England,attack - Centre-Forward,right,Crown Football Ltd,Sutton United,"Aug 31, 2021","May 31, 2022",Millwall FC U23,"Jun 30, 2022",,NA,NA,NA,NA,NA
+Tobi Sho-Silva,"Mar 27, 1995",Thamesmead,26,"1,86 m",England Nigeria,attack - Centre-Forward,right,Omari Williams,Sutton United,"Aug 7, 2020","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Omar Bugiel,"Jan 3, 1994",Berlin,27,"1,85 m",Lebanon Germany,attack - Centre-Forward,right,NA,Sutton United,"Jul 1, 2019","Jun 30, 2022",NA,NA,,"Jun 27, 2021",NA,NA,NA,NA
+Craig Dundas,"Feb 16, 1981",London,40,NA,England,attack - Centre-Forward,NA,NA,Sutton United,"Jul 1, 2019","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Richie Bennett,"Mar 3, 1991",Oldham,30,"1,91 m",England,attack - Centre-Forward,NA,Inspire Sports Management,Sutton United,"Jul 9, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Mark Oxley,"Sep 28, 1990",Sheffield,31,"1,90 m",England,Goalkeeper,right,NA,Harrogate Town,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Joe Cracknell,"Jun 5, 1994",NA,27,"1,83 m",England,Goalkeeper,left,NA,Harrogate Town,"Aug 8, 2017","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Rory McArdle,"May 1, 1987",Sheffield,34,"1,85 m",Northern Ireland England,Defender - Centre-Back,right,Omni-Sports,Harrogate Town,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Will Smith,"Nov 4, 1998",Leeds,22,"1,89 m",England,Defender - Centre-Back,right,Titan One Sports,Harrogate Town,"Jul 1, 2019","Jun 30, 2024",NA,NA,NA,"Oct 1, 2020",NA,NA,NA,NA
+Connor Hall,"May 23, 1993",Slough,28,"1,93 m",England,Defender - Centre-Back,left,ACHIEVE,Harrogate Town,"Jul 1, 2019","Jun 30, 2024",NA,NA,NA,"Jan 8, 2021",NA,NA,NA,NA
+Lewis Page,"May 20, 1996",London,25,"1,78 m",England,Defender - Left-Back,left,Unique Sports Group,Harrogate Town,"Jul 16, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Ryan Fallowfield,"Jan 3, 1996",Kingston-upon-Hull,25,"1,74 m",England,Defender - Right-Back,right,NA,Harrogate Town,"Jul 1, 2017","Jun 30, 2021",NA,NA,NA,"Aug 25, 2020",NA,NA,NA,NA
+Warren Burrell,"Jun 3, 1990",Sheffield,31,"1,78 m",England,Defender - Right-Back,right,NA,Harrogate Town,"Jan 1, 2016","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Nathan Sheron,"Oct 4, 1997",Whiston,24,"1,84 m",England,midfield - Defensive Midfield,right,Midas Sports,Harrogate Town,"Jul 16, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Alex Pattison,"Sep 6, 1997",Darlington,24,"1,73 m",England,midfield - Central Midfield,right,SMI Sports Management,Harrogate Town,"Jul 1, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Josh Falkingham,"Aug 25, 1990",Leeds,31,"1,68 m",England,midfield - Central Midfield,left,NA,Harrogate Town,"Jul 1, 2017","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Simon Power,"May 13, 1998",Greystones,23,"1,77 m",Ireland,midfield - Right Midfield,right,Quantum Sport,Harrogate Town,"Jan 18, 2021","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
+Lloyd Kerry,"Jul 22, 1988",Chesterfield,33,"1,70 m",England,midfield - Right Midfield,right,NA,Harrogate Town,"Jul 1, 2014","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+George Thomson,"May 19, 1992",Melton Mowbray,29,"1,75 m",England,midfield - Right Midfield,left,NA,Harrogate Town,"Jul 1, 2017","Jun 30, 2022",NA,NA,NA,"Aug 25, 2020",NA,NA,NA,NA
+Jack Diamond,"Jan 12, 2000",NA,21,"1,75 m",England,attack - Left Winger,right,NA,Harrogate Town,"Aug 31, 2021","May 31, 2022",Sunderland AFC,"Jun 30, 2024",,NA,NA,NA,NA,NA
+Luke Armstrong,"Jul 2, 1996",Durham,25,"1,85 m",England,attack - Centre-Forward,NA,CAA Base Ltd,Harrogate Town,"Jul 1, 2021","Jun 30, 2023",NA,NA,NA,NA,NA,NA,NA,NA
+Aaron Martin,"Jul 5, 1991",Sheffield,30,"1,83 m",England,attack - Centre-Forward,NA,NA,Harrogate Town,"Mar 16, 2020","Jun 30, 2023",NA,NA,NA,"Mar 19, 2021",NA,NA,NA,NA
+Danilo Orsi,"Apr 19, 1996",NA,25,"1,88 m",England Italy,attack - Centre-Forward,right,PowerHause SG,Harrogate Town,"Jul 1, 2021","Jun 30, 2022",NA,NA,NA,NA,NA,NA,NA,NA
+Jack Muldoon,"May 19, 1989",Scunthorpe,32,"1,78 m",England,attack - Centre-Forward,right,NA,Harrogate Town,"Jul 1, 2018","Jun 30, 2022",NA,NA,,NA,NA,NA,NA,NA
