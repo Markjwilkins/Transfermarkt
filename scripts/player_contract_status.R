@@ -4,13 +4,14 @@
 # Load Packages -----------------------------------------------------------
 library(tidyverse)
 library(worldfootballR)
-
+library(progress)
 
 # Player info function ----------------------------------------------------
 
 ##edited worldfootballr::tm_player_bio() function
 
 player_bio <- function(player_url) {
+  pb$tick()
   player_page <-
     tryCatch(
       xml2::read_html(player_url),
@@ -24,12 +25,17 @@ player_bio <- function(player_url) {
   X2 <-
     player_page %>% rvest::html_nodes(".info-table__content--bold") %>% rvest::html_text() %>% stringr::str_squish()
   
+  ##initial scrape retruned NA name values so grabbed the name from the player header
+  X3 <- 
+    player_page %>% rvest::html_nodes("h1") %>% rvest::html_text()
+  
   a <-
-    cbind(X1, X2) %>% data.frame()
+    cbind(X1, X2, X3) %>% data.frame()
   
   a <-
     a %>%
     tidyr::pivot_wider(names_from = .data$X1, values_from = .data$X2) %>%
+    rename(player_name = X3) %>% 
     janitor::clean_names()
   
   return(a)
@@ -40,7 +46,7 @@ player_bio <- function(player_url) {
 
 ##pull league URLs
 teams <-
-  tm_league_team_urls(start_year = 2021, league_url = "https://www.transfermarkt.com/league-one/startseite/wettbewerb/GB3")
+  tm_league_team_urls(start_year = 2021, league_url = "https://www.transfermarkt.com/championship/startseite/wettbewerb/GB2")
 
 ##pull player links from team URLs
 player_links <-
@@ -49,10 +55,11 @@ player_links <-
   unlist() %>%
   tibble()
 
+pb <- progress::progress_bar$new(total = length(player_links$.),
+                                 format = "  downloading :current/:total (:percent) eta: :eta ")
+
 ##retrieve all bios & small clean up
 all_bios <-
   player_links$. %>%
   map_df(possibly(~ player_bio(.x), otherwise = NA)) %>%
-  rename(player_name = name_in_home_country) %>%
-  filter(!is.na(player_name)) %>%
   select(player_name, everything())
