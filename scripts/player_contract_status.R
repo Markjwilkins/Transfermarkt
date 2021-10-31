@@ -58,7 +58,7 @@ player_links <-
 pb <- progress::progress_bar$new(total = length(player_links$.),
                                  format = "  downloading :current/:total (:percent) eta: :eta ")
 
-##retrieve all bios & small clean up
+##retrieve all bios 
 all_bios <-
   player_links$. %>%
   map_df(possibly(~ player_bio(.x), otherwise = NA)) %>%
